@@ -1,0 +1,2135 @@
+
+							
+
+	
+	
+
+1 language
+	
+	
+
+		
+			
+			
+				
+				العربية
+			
+			Edit links
+		
+
+	
+
+
+				
+					
+						
+							
+								
+
+	
+		
+		
+			
+			ArticleTalk
+		
+		
+	
+
+
+								
+
+	
+	English
+	
+	
+
+
+					
+
+	
+		
+		
+			
+			
+		
+		
+	
+
+
+				
+	
+
+
+							
+						
+						
+							
+								
+
+	
+		
+		
+			
+			ReadEditView history
+		
+		
+	
+
+
+							
+				
+							
+								
+
+	
+	Tools
+	
+	
+
+
+									
+						
+
+	
+	Tools
+	move to sidebar
+	hide
+
+
+	
+
+	
+		Actions
+	
+	
+		
+		
+			
+			ReadEditView history
+		
+		
+	
+
+
+
+	
+		General
+	
+	
+		
+		
+			
+			What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationCite this pageGet shortened URLDownload QR codeWikidata item
+		
+		
+	
+
+
+
+	
+		Print/export
+	
+	
+		
+		
+			
+			Download as PDFPrintable version
+		
+		
+	
+
+
+
+
+									
+				
+	
+
+
+							
+						
+					
+				
+				
+					
+						
+							
+				
+							
+		
+						
+						
+					
+				
+				
+					
+							
+		
+
+						From Wikipedia, the free encyclopedia
+					
+					
+					
+					
+					Sequence of major events in a virus pandemic
+
+
+.mw-parser-output .hlist dl,.mw-parser-output .hlist ol,.mw-parser-output .hlist ul{margin:0;padding:0}.mw-parser-output .hlist dd,.mw-parser-output .hlist dt,.mw-parser-output .hlist li{margin:0;display:inline}.mw-parser-output .hlist.inline,.mw-parser-output .hlist.inline dl,.mw-parser-output .hlist.inline ol,.mw-parser-output .hlist.inline ul,.mw-parser-output .hlist dl dl,.mw-parser-output .hlist dl ol,.mw-parser-output .hlist dl ul,.mw-parser-output .hlist ol dl,.mw-parser-output .hlist ol ol,.mw-parser-output .hlist ol ul,.mw-parser-output .hlist ul dl,.mw-parser-output .hlist ul ol,.mw-parser-output .hlist ul ul{display:inline}.mw-parser-output .hlist .mw-empty-li{display:none}.mw-parser-output .hlist dt::after{content:": "}.mw-parser-output .hlist dd::after,.mw-parser-output .hlist li::after{content:" · ";font-weight:bold}.mw-parser-output .hlist dd:last-child::after,.mw-parser-output .hlist dt:last-child::after,.mw-parser-output .hlist li:last-child::after{content:none}.mw-parser-output .hlist dd dd:first-child::before,.mw-parser-output .hlist dd dt:first-child::before,.mw-parser-output .hlist dd li:first-child::before,.mw-parser-output .hlist dt dd:first-child::before,.mw-parser-output .hlist dt dt:first-child::before,.mw-parser-output .hlist dt li:first-child::before,.mw-parser-output .hlist li dd:first-child::before,.mw-parser-output .hlist li dt:first-child::before,.mw-parser-output .hlist li li:first-child::before{content:" (";font-weight:normal}.mw-parser-output .hlist dd dd:last-child::after,.mw-parser-output .hlist dd dt:last-child::after,.mw-parser-output .hlist dd li:last-child::after,.mw-parser-output .hlist dt dd:last-child::after,.mw-parser-output .hlist dt dt:last-child::after,.mw-parser-output .hlist dt li:last-child::after,.mw-parser-output .hlist li dd:last-child::after,.mw-parser-output .hlist li dt:last-child::after,.mw-parser-output .hlist li li:last-child::after{content:")";font-weight:normal}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist olli{counter-increment:listitem}.mw-parser-output .hlist olli::before{content:" "counter(listitem)"\a0 "}.mw-parser-output .hlist dd olli:first-child::before,.mw-parser-output .hlist dt olli:first-child::before,.mw-parser-output .hlist li olli:first-child::before{content:" ("counter(listitem)"\a0 "}.mw-parser-output .sidebar{width:22em;float:right;clear:right;margin:0.5em 0 1em 1em;background:#f8f9fa;border:1px solid #aaa;padding:0.2em;text-align:center;line-height:1.4em;font-size:88%;border-collapse:collapse;display:table}body.skin-minerva .mw-parser-output .sidebar{display:table!important;float:right!important;margin:0.5em 0 1em 1em!important}.mw-parser-output .sidebar-subgroup{width:100%;margin:0;border-spacing:0}.mw-parser-output .sidebar-left{float:left;clear:left;margin:0.5em 1em 1em 0}.mw-parser-output .sidebar-none{float:none;clear:both;margin:0.5em 1em 1em 0}.mw-parser-output .sidebar-outer-title{padding:0 0.4em 0.2em;font-size:125%;line-height:1.2em;font-weight:bold}.mw-parser-output .sidebar-top-image{padding:0.4em}.mw-parser-output .sidebar-top-caption,.mw-parser-output .sidebar-pretitle-with-top-image,.mw-parser-output .sidebar-caption{padding:0.2em 0.4em 0;line-height:1.2em}.mw-parser-output .sidebar-pretitle{padding:0.4em 0.4em 0;line-height:1.2em}.mw-parser-output .sidebar-title,.mw-parser-output .sidebar-title-with-pretitle{padding:0.2em 0.8em;font-size:145%;line-height:1.2em}.mw-parser-output .sidebar-title-with-pretitle{padding:0.1em 0.4em}.mw-parser-output .sidebar-image{padding:0.2em 0.4em 0.4em}.mw-parser-output .sidebar-heading{padding:0.1em 0.4em}.mw-parser-output .sidebar-content{padding:0 0.5em 0.4em}.mw-parser-output .sidebar-content-with-subgroup{padding:0.1em 0.4em 0.2em}.mw-parser-output .sidebar-above,.mw-parser-output .sidebar-below{padding:0.3em 0.8em;font-weight:bold}.mw-parser-output .sidebar-collapse .sidebar-above,.mw-parser-output .sidebar-collapse .sidebar-below{border-top:1px solid #aaa;border-bottom:1px solid #aaa}.mw-parser-output .sidebar-navbar{text-align:right;font-size:115%;padding:0 0.4em 0.4em}.mw-parser-output .sidebar-list-title{padding:0 0.4em;text-align:left;font-weight:bold;line-height:1.6em;font-size:105%}.mw-parser-output .sidebar-list-title-c{padding:0 0.4em;text-align:center;margin:0 3.3em}@media(max-width:720px){body.mediawiki .mw-parser-output .sidebar{width:100%!important;clear:both;float:none!important;margin-left:0!important;margin-right:0!important}}Part of a series on theCOVID-19 pandemicScientifically accurate atomic model of the external structure of SARS-CoV-2. Each "ball" is an atom.
+COVID-19 (disease)
+SARS-CoV-2 (virus)
+Cases
+Deaths
+Timeline
+2019
+2020
+January
+responses
+February
+responses
+March
+responses
+April
+responses
+May
+responses
+June
+responses
+July
+responses
+August
+responses
+September
+responses
+October
+responses
+November
+responses
+December
+responses
+2021
+January
+responses
+February
+responses
+March
+responses
+April
+responses
+May
+responses
+June
+responses
+July
+responses
+August
+responses
+September
+responses
+October
+responses
+November
+responses
+December
+responses
+2022
+January
+responses
+February
+responses
+March
+responses
+April
+responses
+May
+responses
+June
+responses
+July
+responses
+August
+responses
+September
+responses
+October
+responses
+November
+December
+2023
+2024
+
+Locations
+By country and territory
+Africa
+Antarctica
+Asia
+Europe
+North America
+Oceania
+South America
+By conveyance
+Cruise ships
+Naval ships
+
+International response
+Endemic phase
+Evacuations
+Face masks
+International aid
+Origin
+Lockdowns
+by country
+Misinformation
+by governments
+Fake treatments
+Social distancing
+Software
+Travel
+United Nations
+World Health Organization
+WTO IP waiver
+Undercounting of deaths
+COVID-19 apps
+Zero-COVID
+National responses
+Africa
+China
+European Union
+Germany
+Ghana
+India
+Ireland
+Netherlands
+New Zealand
+Nigeria
+Philippines
+Russia
+Sweden
+UK
+government
+US
+federal government
+Vietnam
+
+Medical response
+Disease testing
+Breathalyzer
+Development
+Drug development
+Drug repurposing
+Public health mitigation
+Vaccines
+History
+Research
+VITT
+Deployment
+Authorizations
+Operation Warp Speed
+Misinformation and hesitancy
+US
+Vaccine card
+Vaccine passports
+Current vaccines
+CoronaVac
+Covaxin
+Convidecia
+Janssen
+Medigen
+Moderna
+Novavax
+Oxford–AstraZeneca
+Pfizer–BioNTech
+Sinopharm BIBP
+Sputnik V
+
+Variants
+Variants of concern
+Alpha
+Beta
+Gamma
+Delta
+Omicron
+Other variants
+Epsilon
+Zeta
+Eta
+Theta
+Iota
+Kappa
+Lambda
+Mu
+Cluster 5
+Lineage B.1.617
+
+Economic impact and recession
+Arts and culture
+Aviation
+Cannabis
+Cinema
+films
+Disney
+Fashion
+Financial markets
+Food industry
+Food security
+Journalism
+Music
+Performing arts
+Retail
+Shipping
+Television
+US
+sportscasting
+programs
+Tourism
+Video games
+By country
+Canada
+India
+Ireland
+Malaysia
+New Zealand
+Russia
+UK
+US
+By sport
+Association football
+Baseball
+Basketball
+Combat sports
+Cricket
+Disc golf
+Gaelic games
+Gridiron football
+Ice hockey
+Motorsport
+Rugby league
+
+Impacts
+Animals
+Alzheimer's disease patients
+Black people
+Crime
+Death rates by country
+Disability
+Domestic violence
+Emergency evacuations
+Education
+Female
+Environment
+Hospitals
+Language
+LGBT community
+Long-term care
+Media coverage
+Mental health
+symptoms
+Migration
+Military
+Notable deaths
+Other health issues
+Politics
+diplomacy
+Popular culture
+Protests
+Pregnancy
+Prisons
+Religion
+Catholic Church
+Hajj
+Science and technology
+Social media
+Strikes
+Suicides
+Telehealth
+Xenophobia and racism
+Society
+Ireland
+Malaysia
+New Zealand
+Russia
+UK
+US
+
+&#160;COVID-19 portal.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar aspan,.mw-parser-output .navbar aabbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}vte
+This article documents the chronology of the response to the COVID-19 pandemic in February 2020, which originated in Wuhan, China in December 2019. Some developments may become known or fully understood only in retrospect. Reporting on this outbreak began in December 2019.
+
+
+Events, reactions, and measures in mainland China[edit]
+1 February[edit]
+Import duties and US-specific tariffs were exempted on imported materials donated for epidemic prevention and control, including VAT and sales tax; the duties and tariffs previously levied were to be refunded.&#91;1&#93;&#91;2&#93;
+The Ministry of Ecology and Environment issued a notice late in the evening to deploy medical wastewater and urban sewage supervision, regulate emergency medical wastewater treatment, sterilisation and disinfection requirements, in order to prevent the spread of new coronavirus through faeces and sewage,&#91;3&#93; after the faeces of a patient was tested positive for the virus in Shenzhen.&#91;4&#93;
+The Department of Civil Affairs of Hubei Province suspends all marriage registrations starting on 3 February 2020.&#91;5&#93;
+Huanggang, Hubei implements a much stricter control, allowing only one person from each household every two days to be on the street for purchases, unless for medically related reasons, required for epidemic control, or as shop workers.&#91;6&#93;
+Alibaba Group announced free taxi service for health professionals in Wuhan.&#91;2&#93;
+Hunan government required companies in the province not to resume business before 24:00 on 9 February; the new semester is not to start earlier than 17 February for primary and secondary schools and kindergartens, and 24 February for post-secondary institutions.&#91;7&#93; Tianjin government issued a notice to postpone business resumption and the start of the new semester.&#91;8&#93;
+Huanggang, Hubei converted Dabie Mountain Regional Medical Centre to an emergency treatment hospital, adding 1000 new beds.&#91;9&#93; Huoshenshan Hospital was fully electrified on 23:49.&#91;10&#93;
+China Securities Regulatory Commission waived the 2020 annual listing fee that listed companies in Hubei are required to pay to the stock exchange.&#91;11&#93;
+China Federation of Radio and Television Associations issued a notice to pause the filming of all films and TV dramas in mainland China during the epidemic.&#91;12&#93;
+310 Hubei citizens were repatriated from Thailand, Malaysia, and Japan.&#91;13&#93;
+Apple Inc. temporarily closed all Apple Stores in mainland China until 24:00 on 9 February.&#91;14&#93;
+China's National Health Commission (NHC) announced new regulations Saturday requiring that all who lose their lives to the coronavirus must be cremated at the nearest facility. "No farewell ceremonies or other funeral activities involving the corpse shall be held," according to the new ruling.&#91;15&#93;
+The Badminton World Federation announced it has postponed the 2020 Lingshui China Masters tournament, originally scheduled to be held from 25 February to 1 March.&#91;16&#93;
+
+2 February[edit]
+Wuhan's Epidemic Prevention and Control Headquarters&#91;17&#93; arranged for Jointown Pharmaceutical Group to overtake the warehouse management of Wuhan Red Cross&#91;18&#93;&#91;19&#93; after days of scandals and controversies regarding the Red Cross' incompetence, extreme delays in allocating donation resources, and unexplained apparent misallocation of crucial medical supplies.&#91;20&#93;&#91;21&#93;&#91;22&#93;&#91;23&#93;&#91;24&#93;
+On the same day, the Prevention and Control HQ issued a set of Traditional Chinese Medicine (TCM) prescriptions "to help treat the infection".&#91;25&#93; This move follows the 22 January recommendation from the National Health Commission to use TCM to treat the disease.&#91;26&#93;
+Wenzhou, Zhejiang announces implementing the same measure as Huanggang, where every household may send one person every two days outside for purchases, from 00:00 on 2 February to 24:00 on 8 February.&#91;27&#93;
+Huoshenshan Hospital completed construction in the morning and was transferred to the military, half a day earlier than scheduled.&#91;28&#93;&#91;29&#93;
+Hubei allows imported and re-imported masks that are unlisted in China to be sold in the provincial market.&#91;30&#93;
+The Ministry of Transport extended the cut-off time for the minibus toll-free period of the 2020 Spring Festival to 24:00 on 8 February 2020.&#91;31&#93;
+Meituan starts an initiative to disinfect all shared bikes in eight mainland cities regardless of the brand.&#91;32&#93;
+With immediate effect, Wuhan's government announced the quarantining of "all suspected patients and those known to have been in close contact with a confirmed case."  It stated "Patients shall cooperate. Whoever refuses to cooperate will be subject to enforcement by the police."&#91;33&#93;
+Chinese Premier Li Keqiang has asked the European Union to facilitate the sale of medical supplies "through commercial channels". According to a Chinese government statement, the President of the European Commission Ursula von der Leyen said the European Union will try its best and coordinate all necessary resources to provide assistance to China.&#91;34&#93;&#91;35&#93;
+
+3 February[edit]
+The Chinese New Year holiday period ended after having been extended for a week. Mainland stock exchanges reopened, Shanghai Stock Exchange falling by 7.72% and Shenzhen Stock Exchange by 8.45%, with a total of 3,177 shares triggering the limit down of 10%.&#91;36&#93; The RMB to USD exchange rate fell through 7.00, opening at 6.9249 and closing at 7.0257.&#91;37&#93;
+In Wuhan, the People's Liberation Army Ground Force takes over medical supplies delivery.&#91;38&#93; "The Beijing leadership realised that almost all the donation points in Hubei and Wuhan have had delivery problems, that there are some opportunists using this crisis to make money," according to a military source.&#91;39&#93;
+4,000 passengers on the World Dream cruise ship were quarantined, after four among them positive to the coronavirus.&#91;40&#93;
+
+4 February[edit]
+The People's Bank of China provided an additional 500 billion yuan (roughly US$71 billion) of liquidity into the country's financial system on Tuesday, following 1.2 trillion yuan (over US$170 billion) the previous day.&#91;41&#93;
+Chinese state-backed importers of liquefied natural gas (LNG) are investigating the invocation of force majeure to halt existing LNG contracts, as the coronavirus outbreak depresses energy demand.&#91;42&#93;
+
+5 February[edit]
+The National Health Commission releases the fifth diagnostic criteria. For Hubei, CT scan results are no longer required for declaring suspected cases,&#91;43&#93; and "clinical diagnoses" may now be made using "imaging features of the pneumonia", without nucleic acid testing required.&#91;44&#93; For suspected cases, "respiratory symptoms" are now admitted as part of the criteria nationwide.&#91;45&#93;&#91;46&#93;
+Hubei released an additional ¥200 million (US$28.56 million) as special subsidies for the construction of treatment sites.&#91;47&#93;
+The first shelter hospital&#91;48&#93; is put into use.&#91;49&#93; Designated hospitals in Wuhan will now accept only serious cases (confirmed or suspected); other existing and future patients would be redirected to shelter hospitals or community quarantine points.&#91;50&#93;
+The Wuhan Institute of Virology applied for a patent of Gilead's antiviral drug, remdesivir, as applied toward 2019-nCoV, in China.  The granting of a patent by Chinese authorities was not certain, but a patent would provide China with leverage in negotiating license fees with Gilead. The institute said that it made the patent application "out of national interest, and won't exercise its patent rights if foreign pharmaceutical firms work together with China to curb the contagion." Seeking a patent instead of a "compulsory license" option does demonstrate some sensitivity on China's part toward honoring Gilead's intellectual property rights.  Gilead is working with China on Phase III clinical trials there.&#91;51&#93;&#91;52&#93;&#91;53&#93;&#91;54&#93;
+
+6 February[edit]
+Dali City apologises for intercepting and requisitioning 300 thousand masks designated as emergency supplies for Chongqing&#91;55&#93; and promises to "return" all of them.&#91;56&#93;
+The start of the new semester is postponed to at least the end of February in Zhejiang,&#91;57&#93;  Jiangsu,&#91;57&#93; Chongqing,&#91;58&#93; and Shanghai.&#91;59&#93;
+Sichuan&#91;60&#93; and Guangdong&#91;61&#93; rolled out measures to help small and medium-sized enterprises in response to the epidemic.
+Tencent news issued a statement saying screenshots of its Epidemic Tracker circulating on the Internet showing substantially higher numbers are doctored.&#91;62&#93;&#91;63&#93;&#91;64&#93;&#91;65&#93;
+China announces that they will halve the tariff on US$75 billion goods imported from America, and Chinese official media Global Times commented that China is considering the use of disaster provision in the US-China Phase One trade deal, which was signed in the previous month.&#91;66&#93;
+
+7 February[edit]
+Li Wenliang dies.  Wenliang was a 34-year-old ophthalmologist at Wuhan Central Hospital and one of eight doctors who tried to share information about the coronavirus when it was first emerging, only to be reprimanded by Wuhan police.  He likely became infected by the coronavirus while treating patients during January.  His death from complications of the infection is declared at 2:58&#160;a.m. local time.&#91;67&#93;&#91;68&#93;
+On 7 February, the Joint Defence and Control Mechanism of the State Council introduced a scheme of "one province for one city", where 16 provinces would provide medical force support for every city in Hubei except Wuhan.&#91;69&#93;&#91;70&#93;
+Hangzhou imposed a temporary ban on retail pharmacies selling fever and cough medicines, asking citizens with the symptoms to see a doctor instead.&#91;71&#93;
+
+8 February[edit]
+Shenzhen&#91;72&#93;&#91;73&#93; and Shanghai&#91;74&#93;&#91;75&#93;&#91;76&#93; roll out measures to support companies and reduce costs, including measures estimated to reduce ¥30 billion (US$4.3 billion) in Shanghai.&#91;77&#93;
+The National Development and Reform Commission (NDRC) issued an additional ¥200 million (US$28.66 million) for Hubei to improve the treatment capacity of patients with severe infections.&#91;78&#93;
+Leishenshan Hospital begins operation.&#91;79&#93;
+The National Health Commission announces the temporary official names and acronyms for the pneumonia in Chinese and English, respectively 新型冠状病毒肺炎 (pinyin&#58; xīnxíng guānzhuàng bìngdú fèiyán) / Novel Coronavirus Pneumonia and 新冠肺炎 (pinyin&#58; xīnguān fèiyán) / NCP.&#91;80&#93;
+
+10 February[edit]
+Business has now resumed in all 30 mainland province-level divisions, apart from Hubei.&#91;81&#93;
+Food prices in China have risen on month of January. According to the consumer price index (CPI) the price of pork rose 8.5%, while the CPI came in at 5.4%. The reason may be due to food hoarding, besides the disruptions of supply chains due to transportation, lockdown measures and holiday demand.&#91;82&#93;&#91;83&#93; The CPI is the highest since October 2011.&#91;84&#93;
+Chinese Communist Party general secretary Xi Jinping has appeared in public wearing a protective mask and his temperature was checked while visiting the Anhuali Community in Chaoyang District of Beijing.&#91;85&#93;
+
+11 February[edit]
+Shenzhen University announced the successful development of a new coronavirus antibody detection kit capable of obtaining a result in 22 minutes and reducing the risk of infection of medical staff.&#91;86&#93;
+The Ministry of Human Resources and Social Security expanded existing relief measures for micro, small, and medium size enterprises.&#91;87&#93; The NDRC announced its intention to "strictly curb the practice of restricting the resumption of production and production by simple and crude methods such as via approval."&#91;88&#93; The Ministry of Transport (MoT) introduced measures to  for the transportation security of both citizens, especially migrant workers, and animal feed.&#91;89&#93; The State Taxation Administration allowed enterprises affected by the epidemic to carry forward losses up to 8 years.&#91;90&#93; The Ministry of Commerce issued a notice to ensure security of living materials in key cities.&#91;91&#93;
+Guangdong passed an emergency legislation banning the trading and overeating of wildlife and devolves emergency legislative powers to county-level governments.&#91;92&#93; The provincial government authorised Guangzhou and Shenzhen governments with the power of the emergency requisitioning of houses, facilities, and materials for emergency epidemic response. This was the first time a government was authorised with the power of requisitioning private property since the 1978 Chinese economic reform and since the passage of Property Law in 2007.&#91;93&#93;
+China Banking Regulatory Commission proposed to extend Hubei automobile insurance coverage by one month.&#91;94&#93; Shanghai Stock Exchange announced the full exemption of the bill service fees charged to Hubei legal persons in Hubei from February to December 2020.&#91;95&#93;
+Shanghai introduced measures to support tech companies and exempt the rent of SMSEs due to nationalised enterprises.&#91;96&#93; Jiangsu's bank and government branches introduced financial measures including liquidity support and credit placement.&#91;97&#93; Zhejiang implemented a one-time subsidy for key acquisition and processing enterprises of poultry and fresh milk in the province.&#91;98&#93;
+Cainiao released measures to aid the supply chain and logistics industry.&#91;99&#93; Tmall reduced costs for vendors for the first half of 2020.&#91;100&#93;
+A man in Chengdu was under police investigation for interference with the prevention and control of the epidemic.&#91;101&#93;
+The first batch of central reserve frozen pork arrived at Wuhan.&#91;102&#93;
+Apple extended its device warranty to provide a one-time exception.&#91;103&#93;
+
+12 February[edit]
+A State Council executive meeting was convened, which emphasised efforts to restore the economy to normal activity and asked local governments to implement measures.&#91;104&#93; The MoT and NHC issued a joint Notice to forbid quarantining of material security providers and drivers if they have not entered Wuhan, provided temperature checks are passed and necessary protection measures are being taken.&#91;105&#93;
+China National Railway Group stopped selling seatless tickets and initiated measures to control train occupancy.&#91;106&#93; Tencent announced free cloud service for SMSEs.&#91;107&#93;
+Jiangsu rolled out measures to help economic development during the epidemic.&#91;108&#93; Zhejiang decreased the price of enterprise utilities until 30 April.&#91;109&#93; Shanghai decreased enterprise gas price and waived residential gas arrear penalties.&#91;110&#93;
+Yunnan now required QR code scanning for entering all public spaces.&#91;111&#93; Airbnb suspended booking in Beijing until 30 April.&#91;112&#93; Foshan, Guangdong was to require advance declaration for vehicles to enter the city starting 13 Feb.&#91;113&#93;
+Chinese Communist Party general secretary Xi Jinping ordered tax cut to invigorate the economy. Many organizations were ordered to keep rents low and banks to keep interest low. A stimulus package is expected.&#91;114&#93;
+Honghu, Hubei began an official investigation into a controversial fine of ¥42630 (US$6110.54) on a local pharmacy for selling 44,000 single-use masks stocked at ¥0.6 (US$0.086) each for ¥1 (US$0.143) each, as it violated a province-wide ban on selling medical items related to the epidemic 15% above the stocking price during the epidemic. The move came after heavy criticism online after the fining became known.&#91;115&#93;&#91;116&#93;
+
+13 February[edit]
+Hubei released 1.3 million masks for civil use, providing pharmacies at ¥1 each and requiring them to sell at the "affordable price" of ¥2 (US$0.287) each.&#91;117&#93;
+In Hubei, The Zhangjiawan District of Shiyan&#91;118&#93; entered wartime control starting 00:00, as well as Dawu County in Xiaogan,&#91;119&#93; the status to be reviewed at least once every 14 days.&#91;citation needed&#93;
+Hubei postponed business resumption and start of new semester across the province; businesses were not to resume before 24:00 on 20 Feb.&#91;120&#93; Guangxi prohibited the start of new semester before 1 March.&#91;121&#93;
+Wuhan enacts a new rule prohibiting people from leaving their neighbourhoods for non-medical reasons, updating the curfew to a full lockdown.&#91;122&#93;
+
+14 February[edit]
+The central districts of Yunmeng County in Xiaogan, Hubei entered wartime control.&#91;123&#93; Huanggang, Hubei escalated control starting 00:00, prohibiting non-essential persons or vehicles from entering and exiting communities and initiating the organised distribution of basic necessities.&#91;124&#93;
+A new test kit was developed by a team led by Zhong Nanshan, able to yield a result in fifteen minutes with a very high sensitivity and expected to raise the positive detection rate.&#91;125&#93;&#91;126&#93;
+Huanggang decided to convert another hospital as a secondary medical institution for COVID-19, after Dabie Mountain Regional Medical Centre.&#91;127&#93; Xiantao, Hubei implemented mask ex-factory price control, requiring the ex-factory price of single use medical masks not to exceed ¥1.20 (US$0.172) each and non-medical ones ¥1.00 (US$0.143) each.
+Beijing required all persons returning to the city to self-quarantine for 14 days.&#91;128&#93;
+Shenzhen Metro would start using real-name system starting 16 Feb for epidemic tracing, with passengers able to self-register the carriages they ride in by scanning the QR code in the train.&#91;129&#93;
+The Office of the State Council Education Steering Committee prohibited all after-school training institutions from conducting offline training in any form.&#91;130&#93;
+All mainland IELTS exams in March were cancelled.&#91;131&#93;
+
+15 February[edit]
+Honghu, Hubei entered wartime control at 00:00, the decision announced in the evening of 13 Feb.&#91;132&#93;
+Jingmen, Hubei escalated control, prohibiting outside vehicles and persons from entering its central districts except for medical and living supplies, and shutting down all business except approved pharmacies, supermarkets, and hotels.&#91;133&#93;
+The MoT announced that all toll roads country-wide would be toll-free from 00:00 17 Feb to the end of the epidemic response.&#91;134&#93; The Ministry of Science and Technology introduced measures to strengthen the biosafety management of SARS-CoV-2 high-level virus microbiology laboratories.&#91;135&#93;
+Hubei's Provincial Party Committee issued another ¥100 million (US$14.3 million) to local authorities for epidemic control.&#91;136&#93;
+The Central Bank of China required cash from outbreak areas to be stored for at least 14 days before entering market, 7 days for other areas.&#91;137&#93;&#91;138&#93; PBC branches reporting to its Guangzhou branch would destroy all cash retrieved from hospitals, agricultural markets, and public transit.&#91;139&#93;
+
+16 February[edit]
+Hubei implements "hard quarantine" in units of natural villages; no outsiders are to be allowed in and each household is allowed one person every three days to go out for provisions and urgent agricultural material, on designated routes and in limited time.&#91;140&#93; All nonessential public spaces in Hubei are to be closed and all gatherings forbidden.&#91;141&#93; Following its decision on the previous day, the city of Wuxue in Huanggang now bans residents and vehicles without medical or epidemic control reasons from the streets. Anyone in violation is to be sent to a stadium for "centralised compulsory study" about the laws and epidemic response,&#91;142&#93; and any such cars would be seized.&#91;143&#93; All communities in Dongcheng District, Beijing are required to implement closed management.&#91;144&#93;
+Guizhou resumes normal traffic, removing all temporary quarantine checkpoints.&#91;145&#93;
+The first two autopsies of patients killed by SARS-CoV-2 were carried out in Jinyintan Hospital; its pathology was obtained and submitted for testing.&#91;146&#93; A vaccine of the virus developed by national institutions began its animal experiment stage; clinical trials are expected in April at the earliest.&#91;147&#93;
+The NHC urges for the reduction of the workload of grassroots workers, asking for all legally unnecessary procedures to be halted.&#91;148&#93; The General Administration of Customs has introduced 10 measures to support foreign trade enterprises to resume production.&#91;149&#93; Instructed by the Office of the State Council, Alipay is now developing a national unified system of "Health Code" first used in Hangzhou on 11 Feb, a digital health evaluation certificate for the safe resumption of business.&#91;150&#93;
+Wuhan released a partial list of hospitals accepting patients not with COVID-19.&#91;151&#93;
+The first internet hospitals open in Hunan.&#91;152&#93; Yunnan expedites the approval processes for medical supplies.&#91;153&#93; All secondary and tertiary hospitals in Beijing would start operating on an appointment basis by 25 and 20 Feb respectively for all non-emergency departments.&#91;154&#93;
+Nanjing and Suzhou implements real-name system for public transit, following Shenzhen.&#91;155&#93;
+Huanggang announced that any person with fever or cough taking the initiative to see a doctor would receive a financial reward of ¥500 (US$71.6).&#91;156&#93;
+In response to allegations that patient zero was its research student, Wuhan Institute of Virology released a statement saying no members of the institute were infected and that the student had been working in other provinces for years.&#91;157&#93;
+WHO-China Joint Mission on Coronavirus Disease with 25 member led by Dr. Bruce Aylward and Dr Wannian Liang and consisted of experts from China, Germany, Japan, Korea, Nigeria, Russia, Singapore, USA&#160;and WHO started an investigation.&#91;158&#93;
+
+17 February[edit]
+Following its announcement the previous night, Xiaogan now bans all its urban residents from leaving home, all its rural residents from wandering, visiting neighbours, and gathering, and all vehicles from roads. Exceptions are made for medical reasons, medical staff, providers of medical and living provision, pregnancies, deaths, essential vehicles, and others granted permissions. Violators would be subject to up to 10 days of detention and put on the dishonest list.&#91;159&#93;
+Following its announcement on the previous day, Hangzhou resumes normal traffic and public transport service.&#91;160&#93;
+
+18 February[edit]
+The State Council introduced exemptions of enterprise social security and housing fund contributions.&#91;161&#93; The State Taxation Administration (STA) extended the February taxation filing deadline outside Hubei to 28 February.&#91;162&#93; The State Council and Ministry of Finance (MoF) announced allocating more budget this year to areas heavily affected by the epidemic.&#91;163&#93;
+Wuhan passes its strictest control measures.&#91;164&#93; Tianjin now requires QR code scanning for entering public spaces and transport services.&#91;165&#93;
+Yiwu International Trade City reopened for business.&#91;166&#93;
+Shanghai requires educational institutions to conduct online education when the new semester starts on 2 March, so that student will not go to school.&#91;167&#93;
+
+19 February[edit]
+The NHC published the sixth pilot version of Diagnostic and Treatment Plan of the Novel Coronavirus Pneumonia,&#91;168&#93; which removed the category of clinical diagnosis introduced in the previous edition for Hubei, as well as adjusted several descriptions, criteria, and treatment guidelines of COVID-19,.
+Following its announcement on the previous day, Zhejiang now requires declaration for vehicles entering the province.&#91;169&#93; Meanwhile, public transport across the province apart from Wenzhou will now resume normal service.&#91;170&#93;
+Wuhan bans all vehicles from roads apart from essential vehicles.&#91;171&#93;
+Hunan introduced measures to support businesses.&#91;172&#93; Chengdu adjusted its epidemic control procedures and business resumption would no longer require approval.&#91;173&#93;
+
+20 February[edit]
+Hubei requires businesses in the province not to resume before 10 March, except for essential industries.&#91;174&#93;
+Wenzhou removed all checkpoints except in Yueqing and reopened highways.&#91;175&#93;
+Wuhan requires residents to measure their temperature twice daily and report any measurements exceeding 37.3&#160;°C (99.1&#160;°F).&#91;176&#93;
+The Ministry of Human Resources and Social Security authorises provinces to exempt certain social security contributions from SMSEs starting February for up to five months.&#91;177&#93;
+
+21 February[edit]
+More than 500 cases has been confirmed in five prisons in Hubei, Shandong, and Zhejiang.&#91;178&#93; Following the news of the outbreak, the responsible officials in Shandong and Hubei were sacked.&#91;179&#93;&#91;180&#93;
+Henan and Shandong removed all road quarantine measures.&#91;181&#93;&#91;182&#93;
+Gansu adjusts its emergency response level for COVID-19 from level 1 to level 3.&#91;183&#93;
+Following some public confusion with the data released, Hubei prohibited the subtracting of clinically diagnosed cases.&#91;184&#93; A corrected province-wide statistical report was available late in the evening.&#91;185&#93;
+Wuhan finished the testing of all existing suspected patients, patients with fever, and people with close contact.&#91;186&#93;
+
+22 February[edit]
+Hubei introduced measures to reduce business cost.&#91;187&#93;
+Liaoning adjusted its COVID-19 emergency response level from level 1 to level 3.&#91;188&#93;
+Wuhan requires a 14-day quarantine for patients discharged from COVID-19.&#91;189&#93;
+
+23 February[edit]
+Guizhou adjusted its emergency response level for COVID-19 from level 1 to level 3,&#91;190&#93; and Shanxi to level 2.&#91;191&#93;
+
+24 February[edit]
+WHO-China Joint Mission on COVID-19 held a press conference in Beijing releasing the main findings of the mission report. The major findings were in five aspects including the knowledge about the virus itself, the epidemic situation, the characteristics of the epidemic (or the kinetics of transmission), the severity of the disease, and the strategies and measures taken by the Chinese government.&#91;158&#93;
+Quarantine measures in Wuhan were eased slightly, with non-residents allowed to leave the city under certain conditions.&#91;192&#93; The notice was declared null and void hours later as it was published without the proper authorisation. Several officials behind the order were reprimanded as a result.&#91;193&#93;
+Yunnan adjusted its emergency response level from level 1 to level 3,&#91;194&#93; and Guangdong and Jiangsu to level 2.&#91;195&#93;&#91;196&#93; Jiangxi adjusted its levels to level 3 or level 2 depending on the risk of the county.&#91;197&#93;
+Draft legislation was introduced to the Standing Committee of the National People's Congress with a comprehensive ban of the trading and overeating of wildlife.&#91;198&#93;&#91;199&#93;&#91;200&#93;
+The Third Session of the 13th CPPCC National Committee originally scheduled for 3 March was postponed.&#91;201&#93;
+
+25 February[edit]
+In response the epidemic situation in South Korea and an apparent significant surge of demand for flight tickets from South Korea to Shandong cities, Qingdao will now quarantine all persons entering with a travel history of areas with the epidemic,&#91;202&#93; Weihai will now quarantine all persons entering from Japan and South Korea for 14 days,&#91;203&#93; Shenyang will now test the temperature of all passengers entering from the city,&#91;204&#93; and Dalian will now include all foreigners into its epidemic control mechanism.&#91;205&#93;
+The State Council introduced an exemption of the VAT of small-scale taxpayers in Hubei for three months,&#91;206&#93; as well as aid measures for individual businesses&#91;207&#93; and stimulus measures for migrant workers and university graduates.&#91;208&#93;
+Inner Mongolia adjusted its emergency response level to level 3.&#91;209&#93;
+Guangzhou will now test all inpatients for SARS-CoV-2.&#91;210&#93;
+Shenzhen introduced a legislation draft for public comment, intending to ban the consumption of all non-aquatic animals except for nine enumerated.&#91;211&#93;&#91;210&#93;
+
+26 February[edit]
+Beijing required foreign travellers arriving from areas affected by COVID-19 to be quarantined for 14 days.&#91;212&#93;
+National measures were introduced to aid business resumption, clamp down on malicious disruptors of traffic and logistics, and prohibit the excessive raising of essential medical supplies or disruption of market order.&#91;213&#93;&#91;214&#93;
+Jilin adjusted its emergency response level to level 2,&#91;215&#93; and Hainan to level 3.&#91;216&#93; Fujian adjusted its level to level 2 or 3 based on the risk of the region.&#91;217&#93;
+Yantai, Shandong will now test all persons entering China from the city for SARS-CoV-2 for free.&#91;218&#93;
+
+Reactions and measures outside mainland China[edit]
+1 February[edit]
+Australia's Department of Health issued directives, going into effect from 1 February. Accordingly, travel advisory was increased to level 4: do not travel to all of mainland China. All travellers arriving out of mainland China were asked to self-isolate for a period of 14 days from the time of leaving. Additional border measures were implemented to deny entry of people who have arrived from the mainland China, with the exception of Australian citizens, permanent residents and their immediate family and air crews who have been using appropriate personal protective equipment.&#91;219&#93;
+International border gates Móng Cái (Quảng Ninh Province, Vietnam) - Dongxing (Guangxi, China) ceased functioning on 1 February for an unspecified time; border gates Hoành Mô and Bắc Phong Sinh experienced a 24-hour closure, awaiting further measurements from authorities.&#91;220&#93;&#91;221&#93;
+Taiwan barred nationals from Guangdong (mainland China) and travellers who recently visited the area will be subject to a mandatory 14-day quarantine, from entry beginning 1 February.&#91;222&#93;
+With the sixth case being another domestic transmission, Vietnamese Prime Minister Nguyễn Xuân Phúc signed an epidemic declaration.&#91;223&#93; Aviation permits which already had been granted for flights between Vietnam and China Mainland-Hong Kong-Macau were all revoked, effective immediately from 13:00 (UTC+7, 1 February) for an unspecified time.&#91;223&#93;&#91;224&#93; It perhaps lasts until 1 May, according to  the United States Federal Aviation Administration.&#91;222&#93;
+India banned the export of N95 masks with immediate effect.&#91;225&#93;
+The Government of Japan barred: entry of foreign nationals infected with the virus, and entry of Chinese citizens with passports issued in Hubei province.&#91;226&#93;
+102 German citizens and 26 relatives, all of whom were symptom-free on departure, were evacuated from the Wuhan region to Frankfurt am Main by the Executive Transport Wing of the German Air Force. After their return, they were placed in quarantine in a military barrack in Rhineland-Palatinate for 14 days.&#91;227&#93; The coronavirus was found in two passengers on 2 February. On the outward flight, the Bundeswehr aircraft had 10,000 protective suits on board, which were handed over to the Chinese authorities.&#91;228&#93;&#91;229&#93;
+Trinidad and Tobago's travel restrictions on persons arriving from China goes into full effect. Persons now have to wait 14 days after leaving China before being able to enter Trinidad &amp; Tobago. Additionally persons who may already be at a port of entry and who were in China or are showing symptoms will be subject to quarantine measures. Thermal screening is also being conducted on passengers arriving from Canada, Panama, the United Kingdom and the United States. Testing will also be done by the Caribbean Public Health Agency (CARPHA) on 3 February.&#91;230&#93;
+Qatar Airways has suspended flights to mainland China from 3 February until further notice.&#91;231&#93; It is the first air carrier in the Middle East to do so.
+Princess Cruises announces restrictions on crew members and guests who have recently travelled within mainland China. Guests who have traveled through or in mainland China 14 days prior to the scheduled departure of their cruise will not be allowed to board. Crew members from mainland China are prohibited from getting on any ship until further notice from the company. Crew members scheduled on connecting flights to China have been rerouted. Two cruises in June have been cancelled and two cruises have been rerouted to arrive or depart in Tokyo instead of Shanghai.&#91;232&#93;
+
+2 February[edit]
+New Zealand has temporarily banned all foreign nationals travelling from, or transiting through mainland China after 2 February to assist the containment of the coronavirus into New Zealand and the Pacific Islands. Foreign travelers in transit to New Zealand on 2 February will be subject to enhanced scanning but pending clearance will be allowed into New Zealand. New Zealand citizens and permanent residents, and their immediate family members, will be allowed to enter New Zealand but must self-isolate for 14 days. The ban will last for 14 days but will be reviewed every 48 hours.&#91;233&#93;&#91;234&#93;
+The Philippines has temporarily banned foreigners arriving from China and its territories, including those who visited such areas within the past 14 days, from entering the country; Filipino citizens and permanent residents of the Philippines arriving from such would have to undergo quarantine for 14 days. Travel from Philippines to China and its territories have been temporarily banned as well.&#91;235&#93;
+According to a diplomatic note distributed to foreign residents in North Korea, North Korean authorities have suspended the flight route between Pyongyang and Vladivostok performed by Air Koryo's.&#91;236&#93; According to the same note "During the month of February, events, ceremonial visits and meetings shall not proceed, and essential meetings shall be conducted via telephone" [...] all diplomats or international organization staff going to North Korea will now be subjected to a mandatory 15-day quarantine process at their "place of residence" from the day of arrival".&#91;236&#93; Those subject to quarantine by North Korean authorities will not be allowed to come into contact with other persons and must not enter public places.&#91;236&#93; KCNA reported all people who entered the country after 13 January to have been placed under "medical supervision."&#91;237&#93;
+South Korean Prime Minister Chung Sye-kyun announced to the public the entry barring of all foreign nationals, who have been to Hubei Province since 21 January, will go into effect starting 4 February for an unspecified time. Also, the visa-free policy for Chinese citizens to visit Jeju Island is to be temporarily nullified.&#91;238&#93;
+Indonesia banned all flights from and to mainland China starting from 5 February. The government also stopped giving free visa and visa on arrival for Chinese nationals. They banned those who live or stay in mainland China for at least 14 days before from entering or transiting Indonesia. Indonesians are discouraged from travelling to China.&#91;239&#93;
+The Vietnamese Ministry of Labors, Invalids and Social Affairs issued directive on temporary suspension to Chinese labours returning to work after public holidays.&#91;240&#93;
+Numerous landmark buildings in the United Arab Emirates lit up a Sunday night showing support for Wuhan and Chinese communities around the world over pain and horror by the novel coronavirus, namely: the Burj Khalifa, ADNOC Headquarters, the Capital Gate, Abu Dhabi Global Market, Emirates Palace, Sheikh Zayed Bridge, Burj Al Arab, Hazza bin Zayed Stadium, etc.&#91;241&#93;
+AirAsia Philippines, Philippine Airlines and Cebu Pacific, has suspended flights to and from mainland China, Macau and Hong Kong.&#91;242&#93;
+Group of Seven countries are seeking a unified approach to combat the spread.&#91;243&#93;
+US Health and Human Services imposed restrictions on&#160;travelers entering US which went into effect at 5 p.m. ET.&#160; The plan included temporarily denying entry to foreign nationals who visited China in the 14 days prior to their arrival to the US,&#160; U.S. citizen returning to the US who has been in Hubei Province in the previous 14 days will be subject to up to 14 days of mandatory quarantine and US citizens returning from the rest of mainland China in the 14 days prior will undergo health screenings at selected ports of entry and face up to 14 days of self-monitored quarantine.&#91;244&#93; President Donald Trump said "we pretty much shut it down coming in from China".&#91;245&#93; Wall Street Journal in its Opinion page called "China Is the Real Sick Man of Asia which enraged China ".&#91;246&#93;  Florida governor DeSantis said "Coronavirus may have spread at Super Bowl in Miami".&#91;247&#93;
+The Government of Maldives denies entry to passengers arriving from China.&#91;248&#93;
+Hong Kong announced further tightening of border with the mainland. Beginning 00:00 on 4 February, the special administrative region closed most of its border crossings, except  the Hong Kong International Airport, the Shenzhen Bay Port and the Hong Kong-Zhuhai-Macau Bridge.&#91;249&#93;
+Indonesia set to ban live animal imports from China as coronavirus fears grow.&#91;250&#93;
+The Japanese authorities denied entry to any foreign nationals who have been to Hubei province in the past 14 days, even if there is no symptoms of the virus.&#91;251&#93; Japanese officials quarantined a cruise ship, carrying approximately 3,500 people, off the port of Yokohama due to a former passenger on the ship having contracted the virus.&#91;252&#93;
+The Venezuelan government announced that the country has imposed epidemiological surveillance, restrictions and diagnostic system to detect possible coronavirus patients at the Simón Bolívar International Airport in Maiquetía, Venezuela's main international airport, and that Venezuela will receive a diagnostic kit for the virus strain from the Pan American Health Organization (PAHO).&#91;253&#93;
+Lunar New Year holidays was extended for one week to all k-through-12 students in Ho Chi Minh City; public schools will resume on 10 February.&#91;254&#93; The city authorities also ordered to build two specialty emergency hospitals designed to treat people with the 2019 novel coronavirus. With 500-bed accommodation in total, master plans for construction are due 15 February.&#91;255&#93; The capital city Hanoi is considering taking the same measures.&#91;256&#93;
+The global Cruise Lines International Association bans trips to mainland China and says that it "will deny boarding to any individual, whether guest or crew, who has travelled from or through mainland China within the previous 14 days."&#91;257&#93;
+Boise State University suspends travel to and from China.&#91;258&#93;
+At a news briefing, The Centers for Disease Control and Prevention plan to distribute testing kits to speed up the diagnosis of the coronavirus. The CDC states that this measure will help speed up the testing and diagnosis of the coronavirus after cases in the U.S. reached 11. The Food and Drug Administration first has to approve the test for wider distribution, the CDC said.&#91;259&#93;
+India invalidated all e-visas given to Chinese passport holders since 15 January. It also has stopped giving out new e-visas to Chinese passport holders.&#91;260&#93;  India also gave a travel advisory to not travel to China.  The travel advisory also stated that anyone who comes to knowledge that had visited China since 15 January could get quarantined.&#91;261&#93;
+Several exhibitors and South Korea's Black Eagles have decided to pull out of the Singapore Airshow. This comes as the virus situation worsens.&#91;262&#93;
+K-pop band Winner cancelled its concert in Singapore, supposed to be held on 8 February. Several Huayi events in Esplanade were cancelled owing to travel restrictions. In addition, a Stage Club play was postponed.&#91;263&#93;
+
+3 February[edit]
+The WHO issued a summary fact sheet on the virus.&#91;264&#93;
+
+4 February[edit]
+The President of Federated States of Micronesia, David Panuelo, declared a state of emergency. Accordingly, Micronesian citizens are banned from visiting mainland China. Anyone who had been in mainland China from 6 Jan were barred from entering the country.&#91;265&#93;
+Iran bans exports of facial masks to reduce shortages as domestic use increases significantly.&#91;266&#93;
+The Nanning–Hanoi through train shall cease service as per agreement between the two national operators. Accordingly, the last train from Nanning railway station departed at 18:05 4 February, and the last from Gia Lâm railway station at 21:20 5 February.&#91;267&#93;
+The city government of Macau ordered a shut down of all casinos for at least 15 days.&#91;268&#93;
+The United Kingdom directed its citizens to leave China if possible. Foreign Secretary Dominic Raab said, "We now advise British Nationals in China to leave the country if they can, to minimise their risk of exposure to the virus."&#91;269&#93;
+The Knesset in Israel is forming a special committee to deal with coronavirus.&#91;270&#93;
+Cathay Pacific Airways, the flag carrier of Hong Kong, announces that it is ceasing 90% of its flights to mainland China.&#91;271&#93;
+Royal Caribbean Cruises cancels more ships and adds Hong Kong on the No-Board list. This goes beyond what the Cruise Lines International Association had done, the day before.&#91;272&#93;
+Princess Cruises confirmed quarantine of the Diamond Princess carrying about 3,700 people after one of its passengers tested positive in a  Hong Kong hospital,&#91;273&#93; and, at least, 20 more infected by the ship's return to Japan.&#91;274&#93;&#91;275&#93;
+Hyundai, blaming a parts shortage due to the effects of coronavirus infection, announces it will shut down some production.&#91;276&#93; Nike has also temporarily shut down half of all their stores in China, due to the virus epidemic.&#91;277&#93;
+Air India announces that starting from 8 February, they will temporarily suspend flights to Hong Kong.&#91;278&#93;&#91;279&#93;
+An aviation conference during the Singapore Airshow is cancelled to allow leaders to deal with the coronavirus. This comes after 16 exhibitors pulled out of the Airshow.&#91;280&#93;
+World Health Organization (WHO) released Novel coronavirus (2019-nCoV) Donor Alert. The document describes the current situation, mentions the strategic Global Preparedness and Response Plan including description of the main elements of the strategy. The risk assessed was stated as:&#91;citation needed&#93;
+
+Very high for China
+High at the regional level
+High at the global level
+The required funding for WHO activities (Feb to Apr 2020) is stated at US$675.5 million Global Resource Requirement and US$61.5 million WHO Resource Requirement.&#91;281&#93;
+The United Nations Secretary-General announced that the WHO was taking rapid action to tackle a coronavirus ‘infodemic’, including that the virus could be airborne, and stigmatization, mainly of Chinese.&#91;282&#93;
+
+5 February[edit]
+United Airlines and American Airlines suspended US flights to and from Hong Kong.&#91;283&#93;&#91;284&#93; Cathay Pacific asked all of its 27,000 employees to take three weeks of unpaid leave in order to preserve cash during the virus epidemic.&#91;285&#93;
+Hundreds more Americans were evacuated by two planes from Wuhan to the United States, landing in this case at Travis Air Force Base near Sacramento, California. One of the planes would continue on to Marine Corps Air Station Miramar in San Diego. All evacuees would undergo a two-week quarantine. "Inbound evacuation flights to Wuhan were using their cargo space to deliver donated medical supplies for coronavirus relief efforts."&#91;286&#93; A 12th US case of coronavirus was confirmed in Dane County, Wisconsin."&#91;287&#93;&#91;288&#93;
+Hong Kong announced the beginning of a mandatory two-week quarantine for all visitors from mainland China or Macau from 8 February.&#91;289&#93;&#91;290&#93;
+Taiwan banned entry of non-citizens who have been to mainland China, Hong Kong or Macau within the past 14 days.&#91;291&#93;&#91;290&#93;
+With the US CDC's endorsement, Colombia INS confirmed that it to be the first country in Latin America that might detect the novel coronavirus without sending samples to foreign centers.&#91;292&#93;
+Canadian Minister of Foreign Affairs François-Philippe Champagne advised all Canadians in China but outside the quarantine zone to leave the country "via commercial means".&#91;293&#93;
+India starts scanning passengers in flights coming from  Singapore and  Thailand, along with further travel restrictions on  China to prevent the spread of the virus.&#91;294&#93;
+The Bill &amp; Melinda Gates Foundation committed over $100 Million for better detection, isolation, and treatment research for the virus.&#91;295&#93;
+Yum China Holdings temporarily closed 30% of all Pizza Hut's and KFC's that they operate in China, due to the virus epidemic.&#91;295&#93;
+Tesla stated that due to the virus epidemic, there would be a delay in the shipment of their Tesla Model 3 car, as they are produced and assembled in a new plant at Shanghai.&#91;296&#93;  Production at the plant will restart on 10 February 2020.&#91;297&#93;
+World Health Organization (WHO) stated that there had been a large surge in new cases in the 24 hour period, of an amount that had not been seen in any day since the start of the epidemic.&#91;295&#93;  The number being 3,100 new patients confirmed within China.  Via its contingency fund for emergencies, the WHO has allocated $9 million.&#91;298&#93;
+Countering rumors in the media, the WHO stated that there are no known therapeutics, drugs, or treatments that are effective for the virus yet.&#91;299&#93;&#91;300&#93;&#91;301&#93;&#91;302&#93;  At least one news source attributed the stock market and Oil price rise to these rumours.&#91;295&#93;&#91;302&#93;&#91;301&#93;&#91;299&#93;&#91;excessive citations&#93;
+The WHO appealed for $675 million to boost international measures to counter the epidemic, as deaths neared 500.&#91;303&#93;
+
+6 February[edit]
+A business meeting held in mid-January 2020 at the Grand Hyatt in Singapore of an unnamed international sales company resulted in the infection of four persons in attendance: one from Malaysia, one from Korea and two from Singapore.&#91;304&#93;
+Virgin Australia announced the permanent cancellation of its Hong Kong routes, citing the coronavirus outbreak and anti-government protests.&#91;305&#93;
+Taiwan suspended visas for Hong Kong and Macau citizens.&#91;306&#93;
+The Singapore government stated that a 14-day leave of absence would be mandatory for all workers who return from China.&#91;307&#93;
+Panic buying of consumer goods was reported in Hong Kong due to rumors of an impending quarantine.&#91;308&#93;
+Virgin, KLM, Air France, American Airlines (not including the  Hong Kong route), and Iberia extended their current flight suspensions till sometime in March.&#91;309&#93;&#91;310&#93;&#91;311&#93;&#91;312&#93;&#91;313&#93;
+Volvo stated that two plants in China were still not reopened and will reopen after a few more weeks.&#91;313&#93;&#91;314&#93;
+Shinzo Abe stated that the 2020 Summer Olympics would not be postponed.&#91;313&#93;&#91;315&#93;
+Canada started the evacuation of its citizens from Wuhan.&#91;313&#93; The aircraft would land on 7 February.&#91;316&#93;
+The Better Business Bureau warned about face mask scams that attempt to use the ongoing fears and make false claims.  The scams will either give low-quality or incorrect masks, or will send no mask at all when paid.&#91;317&#93;
+The Pentagon was asked by the Department of Health and Human Services (HHS) to provide  military installations near 11 major airports that could each house up to 220 U.S. citizens in support of coronavirus quarantines. The DoD facilities and the airports they could support include:  Joint Base Pearl Harbor-Hickam, Hawaii, near Honolulu International Airport; Great Lakes Training Center Navy Base, Ill., by Chicago's O'Hare International Airport; Naval Air Station Joint Reserve Base, Texas, close to Dallas/Fort Worth International Airport; March Air Reserve Base (ARB), Calif., by Los Angeles International Airport; Travis Air Force Base (AFB), Calif., near San Francisco International Airport; Dobbins ARB, Ga., near Hartsfield–Jackson Atlanta International Airport; Fort Hamilton, N.Y., by John F. Kennedy International Airport; Naval Base Kitsap, Wash., near Seattle-Tacoma International Airport; Joint Base Anacostia-Bolling, D.C., by Dulles International Airport; Joint Base McGuire-Dix-Lakehurst, N.J., by Newark Liberty International Airport; and Fort Custer Training Center, Mich., near Detroit Metropolitan Airport.&#91;318&#93;
+Professor Neil Ferguson, director of the MRC Centre for Global Infectious Disease Analysis at Imperial College London is summarized in a news report as saying "that the true scale of the coronavirus isn't being reported by Chinese officials and claims that around 50,000 new cases are emerging in the country daily."&#91;319&#93;&#91;320&#93;
+Welsh singer Novo Amor postponed a concert in Singapore to July.&#91;321&#93;
+Results of later autopsies in Santa Clara County, California, found that the first known death due to coronavirus in the United States occurred on February 6.&#91;322&#93;
+The WHO announced that a slight fall in infections was welcome but "nothing to celebrate".&#91;323&#93;
+
+7 February[edit]
+The White House asked scientists in the US to investigate the origins of the virus. One of the reasons for this was because of the large amount of misinformation that is available about the virus online.The Washington Post also reported that some U.S. senators have been frustrated with the lack of information provided by the federal government to the states they represent.&#91;324&#93; Vice President Mike Pence in an interview with CNBC said "China has shown 'unprecedented' transparency on coronavirus" and "the threat (of the virus) here in US remains fairly low".&#91;325&#93;
+The WHO announced that the sudden demand for face masks had created "a shortfall for those in real need".&#91;326&#93;
+Many colleges across the world were starting to reconsider and look into reviewing current student plans for Study abroad programs to and/or from China. This was due to the health safety for the students.&#91;327&#93; Colby College isolated students who showed no signs of the virus, after they returned from China.&#91;328&#93;
+The third British citizen who contracted coronavirus did so through travel to  Singapore. "The government is now telling travellers arriving in the UK from a total of nine Asian countries and territories to check for symptoms. They are advised to stay at home and call the NHS if they are ill and have flown home in the past 14 days."&#91;329&#93; The countries and territories are Thailand, Japan, South Korea, Taiwan, Singapore, Malaysia, Hong Kong, and Macau.
+Singapore raises the Disease Outbreak Response System Condition (DORSCON) (its contagion threat level) to Orange as the virus is spreading there from unknown origins.&#91;330&#93; This is only the second time Singapore has activated Code Orange; the first was for the swine flu (H1N1) pandemic of 2009.&#91;331&#93; Similar to reactions in Hong Kong the previous day, panic buying of groceries and consumer goods ensued.&#91;332&#93;
+Two Hong Kong jewelry trade fairs, hosted by the Hong Kong Trade Development Council, got rescheduled due to the virus epidemic.&#91;333&#93;  Art Basel Hong Kong international art fair, that was being held in March also gets cancelled due to the virus epidemic.&#91;333&#93;&#91;334&#93;
+The Canadian evacuation plane landed in British Columbia for refueling. The plane was also carrying Chinese nationals and citizens who have valid visas for Canada, these were for escorting Canadian minors. The planes final destination is CFB Trenton.&#91;335&#93;
+Continuing the evacuation of American citizens from Wuhan, a rescue plane is landing in Omaha, Nebraska, today.&#91;336&#93;  Others are landing near San Diego, California and San Antonio, Texas today; two passengers are stated as having symptoms of the virus.&#91;337&#93;
+Royal Caribbean cruise lines bans Chinese, Hong Kong and Macau passport holders, as well as travelers who have been in those locales within the last 14 days.&#91;338&#93;
+The United States announced aid of up to $100 million for China and other nations affected by the new coronavirus.&#91;339&#93;
+The first Canadian evacuation plane lands at its final destination.&#91;340&#93;
+Honda shuts down 3 of its plants around the Wuhan region area till 13 February.&#91;341&#93;&#91;342&#93;
+The Federal Reserve Bank warns that the virus is a potential threat to the growth of the US economy.&#91;343&#93;&#91;341&#93;
+VF Corporation announces that its subsidiary Vans has temporarily closed 60% of all its stores in China.&#91;344&#93;&#91;341&#93;
+Burberry temporarily closes a third of their stores in China.&#91;345&#93;&#91;341&#93;
+India offers to test samples for other Southeast Asian countries.&#91;346&#93;&#91;347&#93;
+Nvidia withdraws from the Barcelona Mobile World Congress by informing the GSMA, due to the threat of the virus.&#91;348&#93;&#91;349&#93;
+98 Degrees postponed its Singapore concert due to the coronavirus, which was supposed to be held on 20 February.&#91;350&#93;
+Performances of First Fleet, a Mandarin play originally planned from 14 to 23 February, were rescheduled to March 2021.&#91;351&#93;
+Lockheed Martin and Raytheon decided to pull out of the Singapore Airshow as coronavirus fears have caused event turnout to drop. Meanwhile, the United States Department of Defense reduced the size of its delegation for the Airshow.&#91;352&#93;
+
+8 February[edit]
+The school break in Vietnam was extended in all 63 first-level subdivisions, with the majority to 16 February and five to an unspecified time.&#91;353&#93;
+Apple extends the shutdown period of its stores and corporate offices in China.  They will reopen at some time during the week of 10 February which is the week after the originally stated week Apple said they will reopen.&#91;354&#93;
+Norwegian Cruise Line bans Chinese, Hong Kong, and Macau passport holders, or any one who visited these regions in the past 30 days.&#91;341&#93;&#91;355&#93;
+Hyundai has shut down its largest factory due to lack of wiring that connects the electronic systems in its cars.&#91;356&#93;
+Indonesia advised travellers to take precautions and be alert while in Singapore, with the government raising the travel alert to Yellow, the second out of three tiers.&#91;357&#93;
+
+9 February[edit]
+The Kuwaiti Embassy in Singapore called its citizens to delay their travel plans after the Singaporean government raised the coronavirus alert level to Code Orange.&#91;358&#93; The Embassy of the State of Qatar has since followed suit.&#91;359&#93;
+Malaysia expands their Chinese traveler ban to include the provinces of Zhejiang and Jiangsu.&#91;360&#93;
+Families in the French village Les Contamines-Montjoie get lined up to get tested for the virus.&#91;361&#93;&#91;362&#93;
+Israel has advised travellers to delay travel to countries and territories hit by the coronavirus. In the mention are Singapore, Thailand, South Korea, Japan, Taiwan, Macau and Hong Kong.&#91;357&#93;
+
+10 February[edit]
+The Director-General of the WHO, in response to increasing infections, announced that containment was the main priority.&#91;363&#93;
+Amazon, Sony, and Ericsson states that they will not partake in the Barcelona Mobile World Congress due to the virus.&#91;364&#93;&#91;365&#93;&#91;366&#93;
+The virus daily death toll reaches a new record of 97 people dead from the virus in a single day.&#91;367&#93;&#91;368&#93;
+Asian stock markets fell and went into red due to investor fears relating to the virus impact on the economy.&#91;369&#93;&#91;370&#93;
+The plane that was taking people who lived in Brazil or were citizens back home landed in Brazil. The people on the aircraft were taken into quarantine.  Before landing in Brazil, that plane landed in Poland, as the plane when it left China were also taking 6 people back to Poland.&#91;371&#93;&#91;372&#93;
+HSBC Women's World Championship, LPGA Tour Championship, and LPGA cancelled two more events overall within Singapore and Thailand due to the virus.  Thus meaning only two more events remain uncancelled.&#91;373&#93;&#91;374&#93;&#91;375&#93;
+The United Kingdom included Singapore in a list of countries where travelers returning are advised to self-isolate if they have symptoms as a precautionary measure.&#91;359&#93;
+Sarawak imposed a 14-day quarantine for travelers coming from Singapore in a bid to slow down the spread of the coronavirus. This comes after Singapore's DORSCON was raised to Orange on 7 February.&#91;376&#93;
+Over 70 exhibitors have decided to withdraw or not take part in the Singapore Airshow due to the virus.&#91;377&#93; Lockheed Martin, Bombardier Inc., and De Havilland Canada, are some of the many well known exhibitors or companies that withdrew from the airshow.&#91;378&#93;&#91;379&#93;
+An event commemorating the release of Japanese voice actress Miku Itō's sixth single, the theme song for the anime Plunderer, is delayed by her record label Nippon Columbia due to concerns about the outbreak.&#91;380&#93;
+President Donald Trump told supporters at a rally in New Hampshire that the virus will be gone by April, claiming that when temperatures rise, “the virus” will “miraculously” go away.&#91;381&#93;
+
+11 February[edit]
+The WHO confirmed over 1,000 deaths from the virus as its 'Research and Innovation Forum on novel coronavirus 2019', attended by over 300 scientists and officials, met in Geneva; the possibility of a vaccine being available in 18 months was mooted.&#91;382&#93;
+The Global Grain Conference that was going to take place in Singapore, has been postponed to sometime in June and/or July, due to the virus.&#91;383&#93;
+Authorities in Hong Kong evacuate a Tsing Yi Estate apartment building, after two residents who lived separately got diagnosed with the virus.&#91;384&#93;&#91;385&#93;
+The virus is lowering crude prices worldwide, as China's demand for crude oil decreases due to shutdowns, lockdowns, fears, and other measures.&#91;386&#93;  Oil prices has just reached a 1-year low again, and has been falling for 5 weeks.&#91;387&#93;&#91;388&#93;
+South Korea has advised travellers to delay travel to countries and territories hit by the coronavirus; mentioned are Singapore, Malaysia, Thailand, Vietnam, Japan, and Taiwan in addition to mainland China.&#91;357&#93;
+Taiwan urged travellers to take precautions when travelling to Singapore or Thailand, and to avoid Hong Kong or Macau unless absolutely necessary.&#91;357&#93;
+Singapore and Malaysia will form a joint working group to prevent and control the coronavirus infection.&#91;389&#93;
+The Thailand public health minister does not allow a Holland America cruise ship, MS Westerdam to disembark in the country.  The reason cited by the public health minister is that there are 32 cases in Thailand.&#91;390&#93;
+During a live broadcast on the Fox Business Network, anchor Maria Bartiromo suggests China developed COVID-19 as a biological weapon of mass destruction and deliberately attempted to infect United States diplomats at the White House and in Davos, Switzerland.&#91;391&#93;
+
+12 February[edit]
+American Airlines extend their flight suspensions to Hong Kong and China through some point in late April.&#91;392&#93;&#91;393&#93;
+The WHO announced it was developing a COVID-19 virus treatment master plan.&#91;394&#93; The WHO stated that a coronavirus vaccine could be ready in approximately 18 months.&#91;395&#93;&#91;396&#93;
+The United States Postal Service, Singapore Post, PostNord Sverige, and Austrian postal services will temporarily stop sending mail or other postal services to China, and/or Hong Kong as well as Macau. This is due to the available flight shortages and flight suspensions, which is making it hard to send mail to China, Hong Kong, and Macau.&#91;397&#93;&#91;398&#93;&#91;399&#93;
+Bulgari CEO states that half of its stores in the greater China region have been temporarily closed due to the virus.&#91;400&#93;
+The Formula 1 Chinese Grand Prix 2020 which was set to be held in April, was postponed to a later date due to the outbreak.&#91;401&#93;
+The Dalai Lama announced he stopped all public engagement due to the outbreak.&#91;402&#93;&#91;403&#93;&#91;404&#93;
+The Mobile World Congress (MWC), due to start on 24 February, is cancelled.&#91;405&#93;&#91;406&#93;
+CDC announces that a diagnostic kit it developed does not work. This kit was made available to certified laboratories in the United States besides being shared with more than thirty countries. Due to a possible problem with one of the reagents some results could be made inconclusive (neither positive nor negative).&#91;407&#93;
+According to the Deutsche Bank, the outbreak of COVID-19 may contribute to a recession in Germany.&#91;408&#93;
+Three people escape a quarantine facility in Russia. They did this because according to them, the conditions and officials of the quarantine were not good.&#91;409&#93;&#91;410&#93;
+Cancellations in hotel bookings in the Greek island of Santorini have climbed up to 60-70% in the months of February and March, while there are fears of 100% cancellations for April.&#91;411&#93;
+
+13 February[edit]
+The WHO suggested that the coronavirus 'iceberg' outside China might not be "as big as feared"&#91;412&#93; and that the slowdown in the number of new infections should be taken cautiously as the situation can change in any direction.&#91;413&#93;&#91;414&#93; The WHO also stated that it is too early to predict the outbreaks' end.&#91;415&#93;&#91;416&#93;
+A lockdown on Sơn Lôi Commune (Vĩnh Phúc Province, Vietnam) was implemented by the authorities after five investigated cases had been infected by a cluster. This lasted until 3 March.&#91;417&#93;
+Japan announced that a woman in her eighties outside of Tokyo has died. Two taxi drivers also were tested positive.&#91;418&#93;
+A solo traveler from China was quarantined at Lackland Air Force Base in Texas.&#91;419&#93; This is the 15th case in the U.S.&#91;420&#93;&#91;421&#93;&#91;422&#93;&#91;423&#93;&#91;excessive citations&#93;
+Champalimaud Foundation, a Portuguese private biomedical research foundation, announced the cancellation of a conference that was programmed to happen on 12 to 13 March.&#91;424&#93;
+European Union ministers of health held a meeting in Brussels.&#91;425&#93;
+The ship MS Westerdam was allowed to dock in Sihanoukville, Cambodia.&#91;426&#93;
+Hong Kong will extend school closures until 16 March instead of 2 March, with an exam for primary school students cancelled. Kindergartens will receive subsidies for cleaning works. In addition, civil servants will work from home for another week until 23 February.&#91;427&#93;
+
+14 February[edit]
+The WHO stated that investing in preparedness was the smartest way to make sure that the coronavirus and other outbreaks are “identified and stopped quickly” and that solidarity should triumph over stigma.&#91;428&#93;
+Portugal announced one more suspected case of a child of unspecified age that had returned from China.&#91;429&#93; All previous six suspected cases were revealed to be negative after clinical analysis.&#91;430&#93;
+In Bragança, Portugal, two Chinese college students agreed to stay on a voluntary quarantine when they return to Bragança. Although they did not show symptoms and neither had they been in contact with infected persons as far it was known, the reason for the quarantine was a recent holiday travel to China.&#91;431&#93;
+In the United Kingdom, two Members of Parliament, Lilian Greenwood and Alex Sobel, self-quarantined after learning that they had attended a conference on 6 February where a confirmed case had also been in attendance.&#91;432&#93;
+A German citizen in Palma de Mallorca was released from hospital quarantine after he had been tested negative twice. Previously, he had tested positive for SARS-CoV-2 and was always asymptomatic.&#91;433&#93;
+The first case of coronavirus infection on the African continent was reported in Egypt.&#91;434&#93;
+Grab started GrabCare for healthcare workers in Singapore. This came after reports of increased discrimination due to the COVID-19 situation, making it difficult for healthcare workers to get rides.&#91;435&#93;
+The Catholic Church of Singapore will suspend masses indefinitely from noon of 15 February in view of the coronavirus.&#91;436&#93;
+The 2020 ASEAN Para Games will be suspended indefinitely. The event was supposed to be held from 20 to 28 March in Manila.&#91;437&#93;
+
+15 February[edit]
+The WHO Director-General cautioned against panic over COVID-19 but also urged governments to improve their preparedness, stating, “it's impossible to predict which direction this epidemic will take.”&#91;438&#93;
+The United States announced it would evacuate Americans currently aboard the cruise ship Diamond Princess.&#91;439&#93;
+
+16 February[edit]
+The Portuguese Directorate General for Health announced it was compiling a list of hospitals in Portugal that might reinforce, if needed, the three hospitals already prepared to receive patients. The list should have been ready by 17 February.&#91;440&#93;
+According to the responsible of Portugal's medical emergency services (INEM), Portugal currently had four ambulances prepared to transport patients with the novel coronavirus to the referenced hospitals.&#91;441&#93; All INEM personnel, around 700 medical professionals, would also have refresh courses and new training about the virus.&#91;441&#93;
+In Singapore, a new campaign to improve hygiene standards called "SG Clean" is launched with a certificate to progressively roll out across all sectors. In addition, checklists, as well as audits by third-party assessors and agencies shall be used to ensure continued cleanliness of the facilities.&#91;442&#93;&#91;443&#93;
+
+17 February[edit]
+American passengers evacuate the Diamond Princess and will return to the US. They will be held in quarantine for 14 days.&#91;444&#93;&#91;445&#93;
+Singapore will enforce Stay-Home Notices for all Singapore residents and long-term pass holders returning from China taking effect from 18 February. They will not be allowed to leave home during the next 14 days.&#91;446&#93;
+Following the confirmation of infection aboard the MS Westerdam, the Malaysian authorities barred passengers who had traveled on the luxury cruise ship from entry.&#91;447&#93; Singapore follows suit, only allowing citizens to enter with quarantine imposed.&#91;448&#93;
+Japanese Emperor Naruhito's birthday ceremony and greetings to the public on 23 February will be cancelled.&#91;449&#93;
+The Israeli Ministry of Health requested people returning from Asian countries and territories to self-quarantine. In the mention are mainland China, Taiwan, Macau, Hong Kong, Singapore, Thailand, South Korea and Japan.&#91;450&#93;
+The Tokyo Marathon, due to take place on 1 March, will be restricted to elite runners and wheelchair athletes.&#91;451&#93; Initially, it was expected that 38,000 people would take part but with this change the number will be reduced to 206 participants.&#91;451&#93;
+The seventh episode of A Certain Scientific Railgun T, "Auribus oculi fideliores sunt. (The eyes are more trustworthy than the ears)", is replaced by a rerun of the sixth episode due to production delays associated with the virus outbreak.&#91;452&#93;
+
+18 February[edit]
+The WHO Director-General announced that, as the coronavirus continued to spread, there was still a chance to prevent a broader global crisis, while it shipped personal protective equipment and coronavirus testing kits to countries.&#91;453&#93;
+Getty Images confirmed that it was protecting the identity of photojournalists in China "due to worries about their safety".&#91;454&#93;
+Bushiroad, a Japanese entertainment company best known for creating the BanG Dream! and Revue Starlight multimedia franchises, announced that they would postpone and cancel several events up to 19 March due to the outbreak, and that they would offer refunds.&#91;455&#93; The seventh episode of Infinite Dendrogram, "The Dueling Cities", is replaced with a rerun of the first episode due to production delays stemming from the virus outbreak.&#91;456&#93; The 14th Seiyu Awards will have no after-party celebrations, and only winners, presenters, and journalists will allowed to attend the award ceremony on 7 March.&#91;457&#93;
+Singapore's Deputy Prime Minister and Finance Minister Heng Swee Keat announced S$6.4 billion in reliefs to help businesses and citizens tide through the crisis.&#91;458&#93; Of these, a S$4 billion Stabilisation and Support Package will be given to hard-hit businesses as well as for retraining workers,&#91;459&#93; with a S$1.6 billion Care and Support Package to help household expenses. An additional S$800 million will be set aside, especially for healthcare efforts.&#91;460&#93; A planned Goods and Services Tax hike to 9% will not take place in 2021 owing to the economic impact, with a S$6 billion Assurance Package should the hike take effect.&#91;461&#93;
+
+19 February[edit]
+The WHO Director-General stated that COVID-19 was not yet a pandemic.&#91;462&#93;
+The Nipponbashi Street Festa in Osaka, a cosplay event described as the biggest of its kind, was cancelled due to concerns with the virus outbreak.&#91;463&#93;
+Mediacorp, Singapore's main broadcaster, postponed its Star Awards ceremony to the second half of 2020, initially scheduled for 26 April due to concerns over the ongoing outbreak.&#91;464&#93;
+
+20 February[edit]
+Macau reopened all casinos after a 15-day closure. However, all patrons and service staff would be required to wear masks as part of enhanced measures to reduce the virus spread.&#91;465&#93;
+Israel banned passengers who have been to China, Hong Kong, Thailand or Singapore in the previous 14 days.&#91;466&#93;
+In Novi Sanzhary, Ukraine, the buses carrying the evacuees from China were attacked by a mob hurling stones and engaging in violent clashes with the police.&#91;467&#93;&#91;468&#93;
+Iraq halted travel to and from Iran after the number of cases spiked there. At the same time, travellers from Iran will not be allowed entry.&#91;469&#93;
+
+21 February[edit]
+South Korea designated Daegu and Cheongdo County as "special care zones", coming after a spike in cases reported. The government also announced plans to send military medical staff and temporary isolation facilities to stop the virus. In Seoul, large protests and demonstrations held on weekends would not be allowed. The military also banned all soldiers from taking leave, leaving the barracks and receiving guests. Residents in Daegu were advised to stay indoors, with commanders of a major US base imposing movement restrictions.&#91;470&#93;
+
+22 February[edit]
+Kuwait halts flights to and from Iran, and imposed a ban on travellers arriving from Iran as a precaution. Any Kuwaiti returning will be isolated. In addition, authorities there advised against travel to Iran.&#91;471&#93;
+Samsung shut its phone factory in Gumi until 24 February, with the floor the infected employee worked shut until 25 February. This comes after a cases was confirmed involving a worker there.&#91;472&#93;
+Australia announced an easing of travel restrictions for Chinese students in Year 11 or 12 except for those in Hubei, which will be considered on a case-by-case basis. The students will need to get approval from states and territories, as well as the schools involved. Similar exemptions for Chinese university students are being considered.&#91;473&#93;
+
+23 February[edit]
+Turkey shut down its border with Iran and banned all incoming flights as a precaution for stopping the spread of disease after Iran had reported 43 cases.&#91;474&#93; Pakistan also closed its border with Iran,&#91;475&#93; Afghanistan suspends travel to and from Iran and Jordan bans citizens from China, Iran, and South Korea.&#91;476&#93; Georgia imposes restriction on inbound air flights with Iran, allowing passengers only in one direction.&#91;477&#93;
+Italy introduces strict measures which place almost 50,000 people in lockdown in an attempt to control the virus. Fines are imposed on those caught entering or leaving outbreak areas.&#91;478&#93; Carnival of Venice and Carnival of Ivrea are cancelled.&#91;479&#93;&#91;480&#93;
+South Korea raises its disease alert to the highest level, coming after the number of cases had continued to increase sharply.&#91;481&#93;
+Singapore expanded its health advisory to Daegu and Cheongdo in South Korea, advising travellers to "avoid non-essential travel". At the same time, the definition of suspect cases was expanded to include travellers arriving from these two cities.&#91;482&#93;
+Kuwait banned ships coming from Iran to stopping at its ports due to the coronavirus.&#91;483&#93;
+Israel extended its travel ban to Japan and South Korea taking effect the following day, following a previous travel ban that included Taiwan, Italy, Australia, and Macau.&#91;484&#93;
+Taiwan banned its healthcare professionals in hospital from travelling out to manage the shortage of workers amid the outbreak. Those who need to attend important meetings overseas have to seek permission. This comes after three local governments banned travel by public servants. In addition, military personnel are advised to avoid places affected by COVID-19, with quarantine imposed should they return from these places.&#91;485&#93;
+
+24 February[edit]
+Oman halted flights to and from Iran with immediate effect. This comes after its first confirmed case there.&#91;486&#93;
+In Germany the Light + Building Trade Fair in Frankfurt was postponed until September.&#91;487&#93;
+In Najaf, Iraq, mid-year exams which had already started will be cancelled until further notice to protect the health of students.&#91;486&#93;
+UAE banned citizens from travelling to Iran and Thailand as a precaution against the coronavirus.&#91;488&#93; Oman also banned citizens from travelling to Iran.&#91;489&#93;
+Hong Kong bans travellers arriving from South Korea starting from 25 February at 6am. This comes after the number of cases there increased sharply. Authorities there have also advised against trips there, with a quarantine of 14 days imposed should Hong Kong residents arrive from Daegu and Cheongdo. Several tour groups have since cancelled trips there.&#91;490&#93;
+Six countries have since banned travellers from South Korea from entering their countries. They include Israel, Bahrain, Jordan, Kiribati, Samoa and American Samoa. Nine others have since placed restrictions.&#91;491&#93;
+Mongolia will ban flights to South Korea starting from 25 February to 2 March.&#91;492&#93; The flight ban has since included Japan, with the ban on both countries to last until 11 March.&#91;212&#93;
+Taiwan revises rules to require approval for healthcare professionals in hospital to travel to Level 1 and 2 countries, with a ban on travel to Level 3 countries.&#91;493&#93;
+Rock lobster deliveries from the US to China are on hold, and wedding dress orders in the US are not able to be fulfilled due to shortage of them as 80% of wedding dresses used in the US are made in China.&#91;494&#93;&#91;495&#93;
+The United States Department of State advised Americans to reconsider cruise travel to or within Asia due to the evolving situation.&#91;496&#93;
+
+25 February[edit]
+Iraq banned travellers from China, Iran, Thailand, South Korea, Japan, Italy, and Singapore from entering the country. Iraqis were also advised not to travel to these places.&#91;497&#93;
+Bahrain suspended all schools, nurseries and universities for two weeks to curb the spread of COVID-19 infection.&#91;498&#93;
+Singapore banned visitors arriving from Cheongdo and Daegu in South Korea from 26 February after cases increased rapidly in these two cities. Singapore citizens, permanent residents and long-term pass holders returning from Cheongdo and Daegu within the last 14 days would be issued a Stay-Home Notice (SHN) lasting 14 days.&#91;499&#93;
+North Korea quarantined 380 foreigners, enacted a mandatory 30 day quarantine for all foreigners coming from outside the country and cancelled the Pyongyang Marathon.&#91;500&#93;
+Due to the coronavirus situation in Japan, organisers of the Asia's 50 Best Restaurants Awards decided to hold the ceremony online instead.&#91;501&#93;
+In the United States, officials warned that community transmission of COVID-19 was expected, urging local governments, schools and businesses to develop plans to deal with potential outbreaks. In addition, disruptions to drug supplies could also be expected.&#91;502&#93;
+The Badminton World Federation announced it has postponed the Vietnam International Challenge tournament, originally scheduled to be held from 24 to 29 March.&#91;503&#93;
+US HHS Secretary Alex Azar at a congressional hearing said " That validation (of the testing kit) failed at the third stage""for inconclusive results against control".&#91;504&#93; Dr. Helen Y. Chu, an infectious disease expert in U of Washington Seattle and her colleagues began performing coronavirus tests without government approval. They had a positive test from a local teenager with no recent travel history. They were told by state regulators to stop testing altogether on March 2.&#91;505&#93;
+
+26 February[edit]
+Japanese prime minister Shinzo Abe called for sports and cultural events to be stopped for two weeks. This comes after Japan confirmed its second local death, amid concerns the 2020 Tokyo Olympics could be cancelled. Hokkaido will close schools from 27 February to 4 March, while Tokyo allowed schools to start some classes later.&#91;506&#93;
+As of this date the 2020 Tokyo Olympics shall go ahead as planned, albeit with some adjustments. This comes as major sports are being cancelled (or played behind closed doors, such as with the Japan Davis Cup); the Japan Sumo Association is weighing whether to cancel a sold-out sumo tournament scheduled for 8 March in Osaka.&#91;507&#93;&#91;508&#93;
+Toyota cancelled non-urgent trips for Japan workers as the coronavirus situation worsens. Its production schedule will remain unchanged.&#91;509&#93;
+Spain advised travellers to refrain from going to places like four Italian regions affected, Japan, Iran, South Korea, Singapore and China unless required. Measures will be put in place to slow the spread of the virus.&#91;510&#93;
+Thailand advised travellers to postpone trips to China, Hong Kong, Singapore, Italy, Macau, Taiwan, Iran and some areas in South Korea and Japan. Healthcare workers are not allowed to travel to places affected by COVID-19 unless absolutely necessary, with these workers asked to self-quarantine and adopt enhanced hygiene measures for 14 days.&#91;511&#93;
+The World Health Organisation reported that the number of new cases outside China had exceeded the number of new cases in China for the first time on 25 February, after a spike of cases in Italy, Iran and South Korea with cases in China dropping, and declared that there was "no time for complacency".&#91;512&#93;&#91;513&#93;
+Ireland's Six Nations Championship match with Italy, which was supposed to be held on the weekend of 6 to 8 March, has been postponed due to the coronavirus, and may be cancelled. This comes after a meeting with health officials led by Simon Harris, the Health Minister.&#91;514&#93;
+The Badminton World Federation announced it has postponed the 2020 German Open and Polish Open tournaments, originally scheduled to be held from 3 to 8 March and 26 to 29 March respectively.&#91;515&#93;
+AnimeJapan 2020 was cancelled.&#91;516&#93;
+Chinese authorities confiscated more than 31 million counterfeit surgical masks.&#91;517&#93;
+US Centers for Disease Control and Prevention (CDC) has confirmed an infection in California in a person who reportedly did not have relevant travel history or exposure to another known patient with COVID-19. The patient's exposure is unknown.&#160; It's possible this could be the  first instance of community spread in the US.&#91;518&#93; At the press briefings, President Donald Trump remarked that "As of today, we have 15 cases of COVID-19 that have been detected in the US, with only one new case detected in the last two weeks" , "the 15 within a couple of days is going to be down to close to zero", "Over the last 10 years, we’ve lost 360,000.&#160; These are people that have died from the flu" and "He (President Xi)  is working so hard...And they're calling up Dr. Fauci.&#160; They're calling up our people.&#160; We're dealing with them.&#160; We're giving them certain advice.&#160; We actually have — through World Health, we have them over there also.&#160; And we have a lot of our people making up that group that went over there."&#91;519&#93;
+
+27 February[edit]
+Saudi Arabia banned pilgrims and foreigners from entering the country due to the coronavirus.&#91;520&#93;
+Sindh Provincial government in Pakistan, closes down educational institutions days after the first cases are reported in the country &#91;521&#93;
+Fiji extends travel ban with Prime Minister Frank Bainimarama announcing that travellers who had been in Italy, Iran and the South Korean cities of Daegu and Cheongdo will be denied entry into Fiji. He also added that thermal scanners will be installed at the country's port of entry. From 28 February, all cruise ships entering Fiji would be required to make first berths at ports in Suva and Lautoka, where passengers will undergo a medical and travel history checks.&#91;522&#93;
+Due to mounting worries about the coronavirus outbreak, various U.S. stock market indices including the NASDAQ-100, the S&amp;P 500 Index, and the Dow Jones Industrial Average posted their sharpest falls since 2008, with the Dow falling 1,191 points, its largest one-day drop since the 2008 financial crisis.&#91;523&#93;
+Japan's Prime Minister Shinzo Abe requested all elementary, junior high, high and special needs schools to close from 2 March until spring break in a bid to stop the virus.&#91;524&#93;&#91;525&#93; He also called for the creation of a national face mask reserve, that would be stocked with potential overproduction of face masks.&#91;526&#93;
+Following the confirmation of the 2nd and 3rd case in Greece, the Health Minister announced that all carnival celebrations in the country will be suspended.&#91;527&#93;
+Australia drew up a pandemic plan in preparation of a bigger spread. It also extended a travel ban on travellers coming from China until 7 March, the third time it has done so.&#91;528&#93;
+The World Health Organisation urged countries not to assume that they will be spared the coronavirus, pointing out that it would be a "fatal mistake" to do so. It also warned that the virus "has pandemic potential".&#91;529&#93;&#91;530&#93;
+Iran cancelled Friday prayers in some cities. Iran has since banned travellers from China entering the country. A ban on conferences, cultural events and closure of cinemas was extended by another week.&#91;531&#93;
+Facebook cancelled the F8 developer conference, which was supposed to be held on 5–6 May.&#91;532&#93;
+British Airways cancels 56 flights to Italy between 14 and 26 March due to the large amount of cancellations.&#91;533&#93;
+Taiwan raised its alert level to the highest after sporadic cases of transmission.&#91;534&#93;
+The Asian Football Confederation announced the postponement of 8 matches of the Champions League group stage originally scheduled for 2–4 March.&#91;535&#93;
+
+28 February[edit]
+In response to New Zealand's first reported case, the New Zealand Government temporarily banned travelers from Iran. The patient had reportedly returned from Iran to Auckland earlier in the week. While New Zealand citizens and permanent residents will be allowed to return, they must self-isolate for 14 days. In addition, the Health Minister David Clark confirmed that Chinese international students would not be allowed to re-enter the country and that there would be an increased health presence at airports.&#91;536&#93;&#91;537&#93;&#91;538&#93;&#91;539&#93;
+Cyprus decided to close four checkpoints on the divided island for a week starting 29 February — the first closure since the crossings between the two sides were eased in 2003 after decades of disputes. The United Nations peacekeeping force on the island, UNFICYP were informed of the decision.&#91;540&#93;
+Tokyo Disneyland and Tokyo DisneySea will close from 29 February to 15 March to limit the spread of the virus.&#91;541&#93; Legoland Japan and Universal Studios Japan follow suit.&#91;542&#93;
+Malaysia banned all travellers arriving from South Korea with immediate effect. In addition, Malaysians, permanent residents, and long-term social visit pass and student pass holders returning from Daegu or Cheongdo in the last 14 days must undergo health screening, and separate immigration lanes for travellers from South Korea, Japan, Italy and Iran will be set up.&#91;543&#93;
+South Korean band BTS cancelled their April 2020 Map of the Soul Tour scheduled to be held at the Seoul Olympic Stadium. The band's label Big Hit Entertainment released a statement that is "impossible at this time to predict the scale of the outbreak" and that they "must take into consideration the health and safety of hundreds of thousands of guests as well as our artists."&#91;544&#93;
+According to BBC, internal sources in the Iranian health system stated that at least 210 COVID-19 patients have died in Iran.&#91;545&#93;
+Shopify cancelled the Shopify Unite Conference which supposed to be held on 6 to 8 May in Toronto.&#91;546&#93;
+The Geneva Motor Show scheduled to start on 5 March in Switzerland is cancelled. This comes after Switzerland banned public gatherings of more than 1,000 people to contain the virus.&#91;547&#93;
+In Russia, 88 foreigners in Moscow will be deported for breaking quarantine.&#91;548&#93;
+The Game Developers Conference, which was set to take place in March, has been postponed to an undisclosed date in the summer.&#91;549&#93;
+Hokkaido, Japan declared a state of emergency until 19 March as the number of cases continued to rise, with people asked to stay indoors.&#91;550&#93;
+The World Health Organisation raised the coronavirus alert to the highest level. This comes after more countries confirmed their first cases with the outbreak reaching sub-Saharan Africa.&#91;551&#93;&#91;552&#93;
+A Hyundai factory in Ulsan in South Korea shut down after a case was confirmed involving a worker there.&#91;553&#93;
+In the United States, a school in Washington and another in Oregon, will be temporarily closed.&#91;554&#93;&#91;555&#93; This happens after a staff member in each of the two schools had flu like symptoms, and were found positive for the coronavirus.&#91;555&#93;&#91;556&#93;
+In Japan, authorities asked online auction sites to stop listing face masks, in an effort to prevent mask shortages caused by people buying face masks in bulk to sell them in online auctions.&#91;557&#93;
+In television, American reality series The Amazing Race pauses production of its thirty-third season after filming three of its planned twelve-episode run in England and Scotland, both in the United Kingdom, becoming the first global major television production to be suspended.&#91;558&#93;
+
+29 February[edit]
+Vietnamese authorities announced the visa-free policy for Korean citizens to be temporarily invalidated, starting 29 February. Also, medical quarantine was imposed for Korea-related passengers who arrive in Vietnam.&#91;559&#93;
+Nasa releases new satellite images over China that show air pollution has decreased a large amount due to reduced travel and industrial facilities being closed.&#91;560&#93;
+The United States bans travel from Iran, and increases its travel warnings to Italy and South Korea.&#91;561&#93; Washington State confirmed that a man who had been at the Life Care Center outside Seattle had died, the first American death officially attributed to the virus.According to CDC, US had, by then, tested 472 total people.&#91;562&#93;
+Iran bans the exporting of soaps, bleaches, and disinfectants to try to reduce shortages.&#91;563&#93; Also in Iran, handwashing has been blamed as the cause of unusually high water consumption in Tehran. Because of high use some areas have had reduced water pressure, with some towns and villages even being temporarily cut off from water.  The Tehran Province Water and Wastewater Company has urged residents to try to conserve water and not waste it.&#91;564&#93;
+Azerbaijan shuts down its border with Iran.&#91;565&#93;
+The US-ASEAN Summit in Las Vegas on 14 March, between the U.S. president and ten leading representatives of Southeast Asian countries, was postponed.&#91;566&#93;
+An Iranian Member of Parliament, Mohammad Ali Ramazani, has died due to the coronavirus.&#91;567&#93;&#91;568&#93;
+According to Portugal's General Directorate of Health, Graça Freitas, in the worst-case scenario, Portugal may have one million infections (in a population of roughly more than ten million) over several months of outbreak, 12 to 14 weeks of intense contagion and around 20% severe cases of the total infected population. In this scenario the mortality rate may be around 2.3% to 2.4%. In the most probable scenario is it estimated that Portugal will have around twenty one thousand cases in the most severe week of the outbreak.&#91;569&#93;
+France temporarily banned gatherings of more than 5,000 people to contain the virus, coming after new cases are reported. As a result, the Paris half-marathon is cancelled, and the annual farm show will end today instead.&#91;570&#93;
+Australia will ban travellers arriving from Iran starting 1 March. Travellers who do so will be required to stay in another country for 14 days.&#91;571&#93;
+The United Arab Emirates suspends all extracurricular school activities and orders nurseries closed until further notice as measures to prevent the spreading of the virus.&#91;572&#93;
+Several cherry blossom festivals in Japan were cancelled due to fears of the coronavirus spreading uncontrollably.&#91;573&#93;
+In Hong Kong, several small surgical mask factories began mass production.&#91;574&#93;&#91;575&#93;&#91;576&#93;&#91;577&#93;&#91;excessive citations&#93;
+The WHO warned against criminal scams exploiting the coronavirus emergency.&#91;578&#93;
+
+
+							
+
+	
+	
+
+Add languages
+	
+	
+
+		
+			
+			
+				
+				
+			
+			Add links
+		
+
+	
+
+
+				
+					
+						
+							
+								
+
+	
+		
+		
+			
+			ArticleTalk
+		
+		
+	
+
+
+								
+
+	
+	English
+	
+	
+
+
+					
+
+	
+		
+		
+			
+			
+		
+		
+	
+
+
+				
+	
+
+
+							
+						
+						
+							
+								
+
+	
+		
+		
+			
+			ReadEditView history
+		
+		
+	
+
+
+							
+				
+							
+								
+
+	
+	Tools
+	
+	
+
+
+									
+						
+
+	
+	Tools
+	move to sidebar
+	hide
+
+
+	
+
+	
+		Actions
+	
+	
+		
+		
+			
+			ReadEditView history
+		
+		
+	
+
+
+
+	
+		General
+	
+	
+		
+		
+			
+			What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationCite this pageGet shortened URLDownload QR codeWikidata item
+		
+		
+	
+
+
+
+	
+		Print/export
+	
+	
+		
+		
+			
+			Download as PDFPrintable version
+		
+		
+	
+
+
+
+
+									
+				
+	
+
+
+							
+						
+					
+				
+				
+					
+						
+							
+				
+							
+		
+						
+						
+					
+				
+				
+					
+							
+		
+
+						From Wikipedia, the free encyclopedia
+					
+					
+					
+					
+					Sequence of major events in a virus pandemic
+
+
+.mw-parser-output .hlist dl,.mw-parser-output .hlist ol,.mw-parser-output .hlist ul{margin:0;padding:0}.mw-parser-output .hlist dd,.mw-parser-output .hlist dt,.mw-parser-output .hlist li{margin:0;display:inline}.mw-parser-output .hlist.inline,.mw-parser-output .hlist.inline dl,.mw-parser-output .hlist.inline ol,.mw-parser-output .hlist.inline ul,.mw-parser-output .hlist dl dl,.mw-parser-output .hlist dl ol,.mw-parser-output .hlist dl ul,.mw-parser-output .hlist ol dl,.mw-parser-output .hlist ol ol,.mw-parser-output .hlist ol ul,.mw-parser-output .hlist ul dl,.mw-parser-output .hlist ul ol,.mw-parser-output .hlist ul ul{display:inline}.mw-parser-output .hlist .mw-empty-li{display:none}.mw-parser-output .hlist dt::after{content:": "}.mw-parser-output .hlist dd::after,.mw-parser-output .hlist li::after{content:" · ";font-weight:bold}.mw-parser-output .hlist dd:last-child::after,.mw-parser-output .hlist dt:last-child::after,.mw-parser-output .hlist li:last-child::after{content:none}.mw-parser-output .hlist dd dd:first-child::before,.mw-parser-output .hlist dd dt:first-child::before,.mw-parser-output .hlist dd li:first-child::before,.mw-parser-output .hlist dt dd:first-child::before,.mw-parser-output .hlist dt dt:first-child::before,.mw-parser-output .hlist dt li:first-child::before,.mw-parser-output .hlist li dd:first-child::before,.mw-parser-output .hlist li dt:first-child::before,.mw-parser-output .hlist li li:first-child::before{content:" (";font-weight:normal}.mw-parser-output .hlist dd dd:last-child::after,.mw-parser-output .hlist dd dt:last-child::after,.mw-parser-output .hlist dd li:last-child::after,.mw-parser-output .hlist dt dd:last-child::after,.mw-parser-output .hlist dt dt:last-child::after,.mw-parser-output .hlist dt li:last-child::after,.mw-parser-output .hlist li dd:last-child::after,.mw-parser-output .hlist li dt:last-child::after,.mw-parser-output .hlist li li:last-child::after{content:")";font-weight:normal}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist olli{counter-increment:listitem}.mw-parser-output .hlist olli::before{content:" "counter(listitem)"\a0 "}.mw-parser-output .hlist dd olli:first-child::before,.mw-parser-output .hlist dt olli:first-child::before,.mw-parser-output .hlist li olli:first-child::before{content:" ("counter(listitem)"\a0 "}.mw-parser-output .sidebar{width:22em;float:right;clear:right;margin:0.5em 0 1em 1em;background:#f8f9fa;border:1px solid #aaa;padding:0.2em;text-align:center;line-height:1.4em;font-size:88%;border-collapse:collapse;display:table}body.skin-minerva .mw-parser-output .sidebar{display:table!important;float:right!important;margin:0.5em 0 1em 1em!important}.mw-parser-output .sidebar-subgroup{width:100%;margin:0;border-spacing:0}.mw-parser-output .sidebar-left{float:left;clear:left;margin:0.5em 1em 1em 0}.mw-parser-output .sidebar-none{float:none;clear:both;margin:0.5em 1em 1em 0}.mw-parser-output .sidebar-outer-title{padding:0 0.4em 0.2em;font-size:125%;line-height:1.2em;font-weight:bold}.mw-parser-output .sidebar-top-image{padding:0.4em}.mw-parser-output .sidebar-top-caption,.mw-parser-output .sidebar-pretitle-with-top-image,.mw-parser-output .sidebar-caption{padding:0.2em 0.4em 0;line-height:1.2em}.mw-parser-output .sidebar-pretitle{padding:0.4em 0.4em 0;line-height:1.2em}.mw-parser-output .sidebar-title,.mw-parser-output .sidebar-title-with-pretitle{padding:0.2em 0.8em;font-size:145%;line-height:1.2em}.mw-parser-output .sidebar-title-with-pretitle{padding:0.1em 0.4em}.mw-parser-output .sidebar-image{padding:0.2em 0.4em 0.4em}.mw-parser-output .sidebar-heading{padding:0.1em 0.4em}.mw-parser-output .sidebar-content{padding:0 0.5em 0.4em}.mw-parser-output .sidebar-content-with-subgroup{padding:0.1em 0.4em 0.2em}.mw-parser-output .sidebar-above,.mw-parser-output .sidebar-below{padding:0.3em 0.8em;font-weight:bold}.mw-parser-output .sidebar-collapse .sidebar-above,.mw-parser-output .sidebar-collapse .sidebar-below{border-top:1px solid #aaa;border-bottom:1px solid #aaa}.mw-parser-output .sidebar-navbar{text-align:right;font-size:115%;padding:0 0.4em 0.4em}.mw-parser-output .sidebar-list-title{padding:0 0.4em;text-align:left;font-weight:bold;line-height:1.6em;font-size:105%}.mw-parser-output .sidebar-list-title-c{padding:0 0.4em;text-align:center;margin:0 3.3em}@media(max-width:720px){body.mediawiki .mw-parser-output .sidebar{width:100%!important;clear:both;float:none!important;margin-left:0!important;margin-right:0!important}}Part of a series on theCOVID-19 pandemicScientifically accurate atomic model of the external structure of SARS-CoV-2. Each "ball" is an atom.
+COVID-19 (disease)
+SARS-CoV-2 (virus)
+Cases
+Deaths
+Timeline
+2019
+2020
+January
+responses
+February
+responses
+March
+responses
+April
+responses
+May
+responses
+June
+responses
+July
+responses
+August
+responses
+September
+responses
+October
+responses
+November
+responses
+December
+responses
+2021
+January
+responses
+February
+responses
+March
+responses
+April
+responses
+May
+responses
+June
+responses
+July
+responses
+August
+responses
+September
+responses
+October
+responses
+November
+responses
+December
+responses
+2022
+January
+responses
+February
+responses
+March
+responses
+April
+responses
+May
+responses
+June
+responses
+July
+responses
+August
+responses
+September
+responses
+October
+responses
+November
+December
+2023
+2024
+
+Locations
+By country and territory
+Africa
+Antarctica
+Asia
+Europe
+North America
+Oceania
+South America
+By conveyance
+Cruise ships
+Naval ships
+
+International response
+Endemic phase
+Evacuations
+Face masks
+International aid
+Origin
+Lockdowns
+by country
+Misinformation
+by governments
+Fake treatments
+Social distancing
+Software
+Travel
+United Nations
+World Health Organization
+WTO IP waiver
+Undercounting of deaths
+COVID-19 apps
+Zero-COVID
+National responses
+Africa
+China
+European Union
+Germany
+Ghana
+India
+Ireland
+Netherlands
+New Zealand
+Nigeria
+Philippines
+Russia
+Sweden
+UK
+government
+US
+federal government
+Vietnam
+
+Medical response
+Disease testing
+Breathalyzer
+Development
+Drug development
+Drug repurposing
+Public health mitigation
+Vaccines
+History
+Research
+VITT
+Deployment
+Authorizations
+Operation Warp Speed
+Misinformation and hesitancy
+US
+Vaccine card
+Vaccine passports
+Current vaccines
+CoronaVac
+Covaxin
+Convidecia
+Janssen
+Medigen
+Moderna
+Novavax
+Oxford–AstraZeneca
+Pfizer–BioNTech
+Sinopharm BIBP
+Sputnik V
+
+Variants
+Variants of concern
+Alpha
+Beta
+Gamma
+Delta
+Omicron
+Other variants
+Epsilon
+Zeta
+Eta
+Theta
+Iota
+Kappa
+Lambda
+Mu
+Cluster 5
+Lineage B.1.617
+
+Economic impact and recession
+Arts and culture
+Aviation
+Cannabis
+Cinema
+films
+Disney
+Fashion
+Financial markets
+Food industry
+Food security
+Journalism
+Music
+Performing arts
+Retail
+Shipping
+Television
+US
+sportscasting
+programs
+Tourism
+Video games
+By country
+Canada
+India
+Ireland
+Malaysia
+New Zealand
+Russia
+UK
+US
+By sport
+Association football
+Baseball
+Basketball
+Combat sports
+Cricket
+Disc golf
+Gaelic games
+Gridiron football
+Ice hockey
+Motorsport
+Rugby league
+
+Impacts
+Animals
+Alzheimer's disease patients
+Black people
+Crime
+Death rates by country
+Disability
+Domestic violence
+Emergency evacuations
+Education
+Female
+Environment
+Hospitals
+Language
+LGBT community
+Long-term care
+Media coverage
+Mental health
+symptoms
+Migration
+Military
+Notable deaths
+Other health issues
+Politics
+diplomacy
+Popular culture
+Protests
+Pregnancy
+Prisons
+Religion
+Catholic Church
+Hajj
+Science and technology
+Social media
+Strikes
+Suicides
+Telehealth
+Xenophobia and racism
+Society
+Ireland
+Malaysia
+New Zealand
+Russia
+UK
+US
+
+&#160;COVID-19 portal.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar aspan,.mw-parser-output .navbar aabbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}vte
+This article documents the chronology of the response to the COVID-19 pandemic in January 2020, which originated in Wuhan, China in December 2019. Some developments may become known or fully understood only in retrospect. Reporting on this outbreak began in December 2019.
+
+
+Events, reactions, and measures in mainland China[edit]
+1 January[edit]
+Huanan Seafood Wholesale Market, the source of the initial pneumonia cases, was closed on 1 January 2020 for cleaning and disinfection.&#91;1&#93; On the same day, Chinese state news reported that Wuhan police interviewed eight residents for spreading "misinformation" referring to the new infection as another SARS and "exaggerating" the danger.&#91;2&#93; However, CNA reported on the same date that Wuhan police said they had punished eight people for "publishing or forwarding false information on the internet without verification."&#91;3&#93;
+On 1 January 2020, a genetic sequencing company was notified by the Wuhan Municipal Health Committee that further sequencing of novel coronavirus samples were no longer allowed, existing samples must be destroyed and all data must be kept secret.&#91;4&#93;
+
+2 January[edit]
+On 2 January 2020, Central Hospital of Wuhan banned its staffs from discussing the disease publicly or recording them using text or image that can be used as evidence; situation of individual patients can only be mentioned verbally when doctors change shift.&#91;5&#93;
+
+3 January[edit]
+On 3 January 2020, China's National Health Committee Office published an announcement classifying the novel coronavirus as a highly pathogenic microorganisms (type 2), and request all the samples to be handed to provincial or higher level health authority, other organisation or person with the virus sample should either destroy or transfer them and keep the log, and emphasis that all data must be kept secret and prior approval from the authority will be needed before any results can be published.&#91;4&#93;
+
+7 January[edit]
+On 7 January 2020, General Secretary of the Chinese Communist Party Xi Jinping raised demand on the prevention and control of the pneumonia epidemic caused by novel coronavirus in Wuhan in a Politburo Standing Committee of the Chinese Communist Party meeting, according to article published by himself in February.&#91;6&#93;&#91;7&#93;&#91;8&#93;
+
+10 January[edit]
+The gene sequencing data of the isolated 2019-nCoV, a virus from the same family as the SARS coronavirus, was posted on Virological.org by researchers from Shanghai Public Health Clinical Center and Fudan University, Shanghai. A further three sequences from the Chinese Center for Disease Control and Prevention, one from the Chinese Academy of Medical Sciences, and one from Jinyintan Hospital in Wuhan were posted to the Global Initiative on Sharing All Influenza Data (GISAID) portal.&#91;9&#93;&#91;10&#93;&#91;11&#93;&#91;12&#93; The same day, Public Health England issued its guidance.&#91;13&#93;
+Beginning of the 2020 Chunyun travel season in China.&#91;14&#93;
+
+12 January[edit]
+Hubei's provincial representatives from all over the province met in Wuhan until 18 January.&#91;15&#93;
+Shanghai Public Health Clinical Center, the facility that published the first genome sequence of the virus, was closed without reason.&#91;16&#93;
+
+14 January[edit]
+Reporters from Hong Kong being taken to police station after trying to film situation within Wuhan hospital.&#91;17&#93;
+
+15 January[edit]
+Representative from Chinese government and American government sign the phase one trade deal over bilateral trade conflict in Washington D.C.&#91;18&#93;&#91;19&#93;
+
+20 January[edit]
+China's National Health Commission announced confirmation that the coronavirus had begun to be transmitted between humans.&#91;20&#93;
+Chinese premier Li Keqiang urged decisive and effective efforts to prevent and control the epidemic.&#91;21&#93; Beijing and Guangdong reported an additional three and thirteen laboratory-confirmed cases, respectively. Shanghai confirms its first case, bringing the total number of laboratory-confirmed cases in China to 218.&#91;22&#93;&#91;23&#93;
+
+22 January[edit]
+The government announced a quarantine until further notice, cancelling outgoing flights and trains from Wuhan, and suspending public transportation in Wuhan, effective 10:00 (02:00 UTC, UTC+08:00) on 23 January.&#91;24&#93; However, statistics compiled by the Chinese Railway Administration showed that on the same day approximately 100,000 people had already departed from Wuhan Train Station by the deadline.&#91;25&#93; Furthermore, many Wuhan residents bypassed the checkpoints by taking antipyretics, having seen tips shared on Sina Weibo.&#91;25&#93;
+At the day's night, Wuhan government announced that citizens must wear face masks in public facilities.&#91;26&#93;
+
+23 January[edit]
+Wuhan suspended all public transportation from 10 a.m. onwards, including all bus, metro and ferry lines. Additionally, all outbound trains and flights were halted.&#91;27&#93; In Wuhan, construction began near midnight for a specialist emergency hospital, modelled after the Xiaotangshan Hospital during the 2003 SARS outbreak in Beijing, after it was proposed earlier in the afternoon. The new Huoshenshan Hospital opened on 3 February with a capacity of at least 1,000 beds.&#91;28&#93; The three provinces of Zhejiang,&#91;29&#93; Guangdong,&#91;30&#93; and Hunan&#91;31&#93; declared a level 1 public health emergency (the highest possible) in chronological order.&#91;32&#93; The release of all seven major films for the Lunar New Year was practically cancelled.&#91;33&#93; In an example of black humor, Plague Inc., which was released in 2012, surged to become the most popular app in China.&#91;34&#93;
+
+24 January[edit]
+The seven provinces, two autonomous regions, and all four municipalities of Hubei,&#91;35&#93; Anhui,&#91;36&#93; Tianjin,&#91;37&#93; Beijing,&#91;38&#93; Shanghai,&#91;39&#93; Chongqing,&#91;40&#93; Sichuan,&#91;41&#93; Jiangxi,&#91;42&#93; Yunnan,&#91;43&#93; Shandong,&#91;44&#93; Fujian,&#91;45&#93; Guangxi,&#91;46&#93; and Hebei&#91;47&#93; declared a level 1 public health emergency, in chronological order.&#91;citation needed&#93; The city of Jingzhou was quarantined, raising the number of people in quarantined cities to 35 million.&#91;48&#93; The entire Hubei province now came under a city-by-city quarantine, save for Xiangyang and Shennongjia Forestry District.&#91;citation needed&#93;
+All 70,000 Chinese cinemas were closed until further notice.&#91;49&#93; Multiple tourist sites across China were closed until further notice, including Mount Wutai,&#91;50&#93; Pingyao, Yanmen Pass,&#91;51&#93; Xuanwu Lake, Qixia Mountain, Nanking Massacre Museum, Sun Yat-sen Memorial Hall, Canton Tower, Gulangyu,&#91;52&#93; Yu Garden,&#91;53&#93; Shanghai Disneyland,&#91;54&#93; West Lake, and Forbidden City.&#91;55&#93; Citing the coronavirus outbreak, Starbucks and McDonald's suspended some operations in China.&#91;56&#93;
+The Beijing and Shanghai governments have "urged residents returning from coronavirus outbreak areas to stay at home for 14 days to prevent its spread."&#91;57&#93;
+
+25 January[edit]
+A level 1 health emergency was declared in the 10 provinces and three autonomous regions of Jiangsu,&#91;58&#93; Hainan,&#91;59&#93; Xinjiang,&#91;60&#93; Heilongjiang,&#91;61&#93; Henan,&#91;62&#93; Gansu,&#91;63&#93; Liaoning,&#91;64&#93; Shanxi,&#91;65&#93; Shaanxi,&#91;66&#93; Qinghai,&#91;67&#93; Jilin,&#91;68&#93; Ningxia,&#91;69&#93; and Inner Mongolia,&#91;70&#93; in chronological order. It is now in effect in all 30 of the 31 provincial-level divisions in mainland China with cases reported, the exception being Tibet.
+China's National Health Commission had sent 1,230 medical staff in six groups to Wuhan City, central China's Hubei Province, to combat the novel coronavirus outbreak in the region. As of 25 January, three of the six groups began their work in the virus-hit area. Local media earlier reported that 450 military medical personnel have also landed in the city to offer support.&#91;citation needed&#93; Wuhan announced building a second emergency speciality hospital, named Leishenshan Hospital, with a planned capacity of 1,300 beds, to be in use in half a month.&#91;71&#93;
+Beijing announced it will halt all inter-provincial bus and train services starting 26 January.&#91;72&#93;&#91;73&#93;
+The Politburo of the Chinese Communist Party met to discuss novel coronavirus prevention and control. Xi Jinping stated that the country is facing a "grave situation" as the number of infected people is accelerating.&#91;74&#93;&#91;75&#93;
+Straco has shut Shanghai Ocean Aquarium, Underwater World Xiamen and Lixing Cable Car temporarily to curb the virus spreading around.&#91;76&#93;
+
+26 January[edit]
+The leading group on the prevention and control of the novel coronavirus outbreak was established, led by Chinese Premier Li Keqiang.&#91;77&#93; The leading group has decided to extend the Spring Festival holiday to contain coronavirus outbreak.&#91;citation needed&#93;
+The Chinese Center for Disease Control and Prevention (CCDC) has started developing vaccines against the coronavirus, an official with the center said on Sunday.&#91;78&#93;&#91;79&#93;
+The city of Shantou declared a partial lockdown,&#91;80&#93; though this was quickly reversed.&#91;81&#93;
+China banned all wildlife trade with immediate effect.&#91;82&#93;&#91;83&#93;&#91;84&#93;
+The United Nation's WHO Director-General Tedros Ghebreyesus said he was on his way to Beijing to confer with Chinese officials and health experts about the coronavirus outbreak.&#91;85&#93;
+China started requiring nationwide use of monitoring stations for screening, identification and immediate isolation of coronavirus-infected travellers, including at airports, railway stations, bus stations and ports.&#91;86&#93;
+Schools in Beijing would stay closed until further notice to prevent further spread of the coronavirus. Separately, the Beijing Government stated it will not lock-down the city.&#91;87&#93;
+
+27 January[edit]
+Temperature check at a Beijing metro station on 27 January 2020.
+Chinese Premier Li Keqiang visited Wuhan, the centre of the virus outbreak, to direct the epidemic prevention work.&#91;88&#93;
+China's Finance Ministry and National Health Commission extended 60.33&#160;billion yuan (US$8.74&#160;billion) to help contain coronavirus.&#91;89&#93;
+Xiangyang announced the suspension of ferry services at 00:00 on 28 January,&#91;90&#93; putting the entirety of Hubei province under a city-by-city quarantine, save for Shennongjia Forestry District.&#91;citation needed&#93; The move came after the closure of its railway stations at 00:00 on 27 January, and shutting down of its airport and inter-city bus services earlier.&#91;90&#93;
+Wuhan suspends visa and passports services for Chinese citizens until 30 January.&#91;91&#93;
+The Shanghai government has said companies in the city are not allowed to resume operations before 9 February.&#91;92&#93; Employees of Chinese tech company Tencent became remote workers.&#91;93&#93;
+The mayor of Wuhan acknowledges criticism over his handling of the crisis, admitting that information was not released quickly enough. He said he would resign if it helped with public opinion but pointed out the local government was obliged to seek permission before fully disclosing information about the virus, and that their response had since become "tougher than others".&#91;94&#93;
+Tangshan suspends public transit to prevent spread of coronavirus.&#91;95&#93;
+
+28 January[edit]
+Wanda Group waives all rent and property fees for all merchants from 24 January to 25 February, amounting to an estimated fee reduction of ¥3–4&#160;billion (US$432–577&#160;million).&#91;96&#93;
+Sasseur REIT shuts four malls temporarily, with another seven outlet malls shut to slow the outbreak.&#91;97&#93;
+Dasin Retail Trust shortens hours for its five malls and temporarily closed crowded places.&#91;98&#93;
+ComfortDelGro Corporation, a Singapore transport company, was told by authorities to shut the Nanjing Comfort Delgro Xixia Driving Centre as a precautionary measure against the coronavirus. Other centres were unaffected.&#91;99&#93;
+
+29 January[edit]
+Tibet reported its first suspected case identified on the previous day&#91;100&#93; and declared a level 1 health emergency in the evening, the last mainland provincial division to do so.&#91;101&#93; Suspected cases have now been reported in all 31 mainland provincial divisions.
+Companies in Hubei are required not to resume services before 13 February, and schools in Hubei are to postpone the reopening of schools.&#91;102&#93;
+Chinese police drop their case against eight people, accused on 1 January of spreading "false rumours" about a "new SARS-like virus";&#91;103&#93; they have been referred to as "the eight brave (八勇士)" on some Chinese social media.&#91;104&#93;
+CapitaLand temporarily shuts all four malls in Wuhan and both malls in Xian after instructions from local authorities, with supermarkets still open. The company's remaining 45 malls will operate shorter periods. It has also set up a 10&#160;million Yuan fund to fight the coronavirus.&#91;105&#93;
+
+30 January[edit]
+As of 30 January, inter-provincial charter cars in mainland China and inter-provincial passenger routes to Hubei have all been suspended. Passenger transport on roads in ten provinces and municipalities including Hubei and Beijing has been suspended, inter-provincial passenger trains have been suspended in 16 provinces, urban bus routes have been suspended or partially suspended in multiple cities in 28 provinces, and urban rail transportation has been suspended in 5 cities including Wuhan.&#91;106&#93;
+The Huanggang Communist Party committee announced the dismissal of its health chief, Tang Zhihong.&#91;107&#93;
+Micro-Mechanics temporarily shuts its Suzhou factory after instructions from the authorities there due to the coronavirus, with operations to resume on 10 February.&#91;108&#93;
+
+31 January[edit]
+China National Railway Group announced that starting 1 February, rail ticket purchases must provide the traveller's mobile phone number (email address for foreign nationals).&#91;109&#93;
+
+Reactions and measures outside mainland China[edit]
+3 January[edit]
+Thailand began screening passengers arriving from Wuhan at four different airports.&#91;10&#93;&#91;110&#93;&#91;111&#93;
+Singapore also began screening passengers at Changi Airport.&#91;112&#93;
+
+5 January[edit]
+The "2019–2020 China pneumonia outbreak" Wikipedia article was created by a user from China, which evolved into the English Wikipedia's main article about the pandemic.&#91;113&#93;&#91;114&#93;
+
+6 January[edit]
+The US Centers for Disease Control and Prevention (USCDC) issued a travel watch at Level 1 ("Practice usual precautions") on 6 January, with recommendations on washing hands and more specifically advising avoiding animals, animal markets, and contact with unwell people if travelling to Wuhan.&#91;115&#93;&#91;116&#93;
+The US CDC offers to send a US team to assist Chinese experts in their research in regard to transmissibility, severity, and incubation period of the disease.&#91;117&#93;
+Hong Kong began screening passengers arriving on trains stopped at Wuhan.&#91;118&#93;
+
+20 January[edit]
+On 20 January, the World Health Organization (WHO) stated that it was "now very clear" that human-to-human transmission of the coronavirus had occurred, given that healthcare workers had been infected.&#91;119&#93;
+
+21 January[edit]
+The World Health Organization announced that it would hold an emergency meeting on the virus the following day to determine if the virus is a "public health emergency of international concern (PHEIC)".&#91;120&#93;
+The Panamanian government has enhanced its sanitary control and screening measures at all ports of entry, to prevent the spread of the virus, isolating and testing potential cases.&#91;121&#93;
+
+22 January[edit]
+North Korea closed its borders and banned foreign tourists over the virus.&#91;122&#93;
+WHO's emergency committee was unable to reach a consensus—with one member stating that the vote was "50/50. Even."—on whether the outbreak should be classified as a PHEIC due to lack of information.&#91;123&#93; The committee will resume discussion the next day.&#91;124&#93;
+Singapore formed a multi-ministry taskforce to deal with the virus. This comes after three more suspected cases are detected.&#91;125&#93;
+
+23 January[edit]
+Following Singapore's first confirmed case on 23 January, Singaporean airline Scoot cancelled flights to Wuhan between 23 and 26 January over the virus outbreak after a lockdown was imposed.&#91;126&#93; Schools have also asked parents to declare their travel plans and monitor their children's health. Other measures will also be taken to ensure the safety of students.&#91;127&#93;&#91;128&#93; MINDEF has since issued two medical advisories to service personnel.&#91;129&#93;
+Flights in and out of North Korea were halted. Coronavirus cases in Sinuiju were suspected and promptly quarantined for two weeks.&#91;130&#93;
+
+24 January[edit]
+Following the two laboratory-confirmed cases on 23 January, the Vietnam Aviation Authority sent a written directive requesting that all flights to and from Wuhan are to be cancelled immediately until further notice and that the tickets will be refunded.&#91;131&#93; Exceptionally, the Authority operates four special flights to carry Wuhan passengers home during the period from 24 to 27 January,&#91;132&#93; and a backward flight to evacuate Vietnamese citizens and diplomats.&#91;133&#93;
+Border control measures in Singapore have been enhanced and extended to land and sea checkpoints, with the Immigration and Checkpoints Authority and Maritime and Port Authority of Singapore starting temperature checks from noon of that day.&#91;134&#93;&#91;135&#93;
+The Russian Far East had closed its border with China until 7 February, while Russian tour operators were inhibited starting 27 January.&#91;136&#93;
+
+25 January[edit]
+Hong Kong declared a state of emergency&#91;137&#93; and announced it would close schools until 17 February.&#91;138&#93; Hong Kong Disneyland and Ocean Park are closed until further notice.&#91;139&#93;
+US consulate in Wuhan was closed and all US diplomats were  "under ordered departure".&#91;140&#93; The United States announced plans to evacuate US citizens out of Wuhan by charter jet.&#91;141&#93; The US government later clarified that it only had limited capacity for private citizen evacuations.&#91;citation needed&#93;
+
+26 January[edit]
+Hong Kong announced it will ban anyone who has been to Hubei Province in the last 14 days from entering the city starting 27 January.&#91;142&#93;
+Singers Andy Lau and Leon Lai have postponed their concerts in Hong Kong and Macau respectively.&#91;143&#93;
+
+27 January[edit]
+On 27 January, the WHO assessed the risk of COVID-19 to be "high at the global level".&#91;144&#93;
+Mongolia closed its border with China, shut down schools until 2 March, and called for all public gatherings to be cancelled.&#91;145&#93; The pair of international border gates Hekou (Yunnan, China)–Lào Cai (Vietnam) are suspended against Chinese tourists. The decision was declared by the head of Lào Cai Department of Culture, Sports and Tourism, after an urgent notice from Yunnan Province's authorities.&#91;146&#93;&#91;147&#93;
+The Government of Gilgit Baltistan decided to delay opening the China–Pakistan border crossing point at Khunjerab Pass, scheduled for February.&#91;148&#93;
+Following the action from Hong Kong authorities, Macau stated that it will deny entry to visitors from the Mainland's Hubei province or those who had visited the province 14 days prior to arrival unless they are virus-free.&#91;149&#93;
+Singapore imposed a 14 days leave of absence for those working in schools, healthcare and eldercare who travelled to China in the last 14 days. Students who returned from these places will do home-based learning instead. In addition, people who went to China the last 14 days must fill health and travel declarations and monitor health with temperature checks.&#91;150&#93;&#91;151&#93;&#91;152&#93;
+Malaysia suspends all visa facilities for Chinese tourists from Hubei and its neighbouring provinces in China.&#91;153&#93;
+Tijuana, Mexico receives its final scheduled non-stop flight from mainland China before a previously scheduled suspension of service. Passengers and crew were screened by health officials upon arrival to the Tijuana International Airport. Flights between Tijuana and Mainland China are scheduled to resume in May 2020.&#91;154&#93;
+The USCDC expands travel advisory from Wuhan to the whole of Hubei Province.&#91;155&#93; Later that day, the US State Department raised the travel advisory for China to Level 3 ("Reconsider Travel: Avoid travel due to serious risks to safety and security.") due to the coronavirus.&#91;156&#93; The same day, the USCDC again updates its travel health notice to Warning – Level 3, Avoid All Nonessential Travel to China.&#91;157&#93;&#91;158&#93;
+
+28 January[edit]
+The Philippines and Sri Lanka suspended issuance of visas-on-arrival to Chinese nationals.&#91;159&#93;&#91;160&#93;
+Singapore announced a suspension from 29 January, 12pm of entry or transit for all new visitors with a recent travel history to Hubei within the last 14 days, or holders of China passports issued in Hubei.&#91;161&#93;
+Hong Kong temporarily closes four of the eleven ports with the Mainland.&#91;162&#93; Carrie Lam, the Chief Executive, stated the high-speed rail service between Hong Kong and mainland China would be suspended starting 30 January and all cross-border ferry services would also be suspended in a bid to stop the spread of coronavirus.&#91;163&#93; Additionally, flights from mainland China were reduced by 50 percent, cross-border bus services was reduced, and the Hong Kong government  shifted its employees (except those providing essential or emergency services) to remote work. In a later press conference, Carrie Lam said that the Man Kam To and Sha Tau Kok border checkpoints would be closed.&#91;164&#93;
+Thailand starts scanning all travellers from China with immediate effect.&#91;165&#93;&#91;166&#93;
+The UK's Foreign Office warns Britons not to travel to mainland China unless their journey is essential. Existing advice against all travel to Hubei Province remains in place.&#91;167&#93;
+The USCDC stated it was boosting staffing at 20 US airports that have quarantine facilities.&#91;168&#93;
+Singer Miriam Yeung postponed a concert in Singapore, which was scheduled on 8 February. This comes after the virus situation in China worsened with most of the logistics coming from there.&#91;169&#93;
+
+29 January[edit]
+The government of Papua New Guinea banned all travellers from Asian countries and closed its border with Indonesia. The order takes effect from 30 January.&#91;170&#93;&#91;171&#93;
+Palau and Vanuatu temporarily suspended flights from mainland China, Macau, and Hong Kong until the end of February and restricted diplomatic work in those countries.&#91;171&#93; The Federated States of Micronesia is considering the same measures.&#91;171&#93;
+The government of Kazakhstan suspended visa issuances to Chinese citizens. In addition, all transport links from and to China have been halted; accordingly, movement by train will stop on 1 February, and will stop by aeroplane from 3 February.&#91;172&#93; Georgia temporarily suspended all direct flights with China.&#91;173&#93;
+Rasuwa Fort, which is a border crossing between Rasuwa District (Nepal) and Tibet (China), will be sealed for 15 days starting 29 January. The decision was preceded by a meeting between security and immigration authorities of two countries earlier that day.&#91;174&#93;
+The WHO announces that its director-general has decided to reconvene their international health regulations emergency committee on 30 January to reconsider declaring a global health emergency, technically a "public health emergency of international concern" (PHEIC). The reconvening is due "mainly on the evidence of increasing number of cases, human-to-human transmission outside of China, and the further development of transmission."&#91;175&#93;&#91;176&#93; The committee meeting is planned to start at 13:30 Geneva time.&#91;177&#93; Further, the WHO announces their having set up "The Pandemic Supply Chain Network (PSCN)" in collaboration with the World Economic Forum.&#91;178&#93;
+The Government of Canada issued a travel advisory to avoid non-essential travel to China due to the novel coronavirus outbreak.&#91;179&#93; The Government of Canada also issued a regional travel advisory to avoid all travel to the Province of Hubei—including the cities of Wuhan, Huanggang and Ezhou—due to the imposition of heavy travel restrictions to limit the spread of the novel coronavirus.&#91;179&#93; On the same day, the Minister of Foreign Affairs François-Philippe Champagne announced that an aircraft would be sent to repatriate Canadians from the areas affected by the novel coronavirus in China.&#91;180&#93; As a result of the travel advisories issued by the Canadian government, Air Canada suspended all direct flights to China until at least 29 February.&#91;181&#93;
+The Ministry of Popular Power for Health announced that the Rafael Rangel National Institute of Hygiene (Spanish: Instituto Nacional de Higiene Rafael Rangel) in Caracas will perform the detection of other respiratory viruses based on non-influenza types, including coronaviruses in humans. It is also the only health institute in the country with the installed capacity for the diagnosis of respiratory viruses in Venezuela and is able carry out logistics in the 23 states, the Capital District and Federal Dependencies.&#91;citation needed&#93;
+British Airways and Lufthansa cancel all flights to and from mainland China.&#91;182&#93;&#91;183&#93;&#91;non-primary source needed&#93;
+Singapore expanded temperature screening to cover all incoming flights with additional checks on flights from China and passengers from Hubei.&#91;150&#93;
+The Panama Canal began to require all ships to report if they had any contact with coronavirus-infected countries. The Panamanian health ministry also established an isolation ward for coronavirus patients.&#91;184&#93;&#91;185&#93;
+
+30 January[edit]
+Map of the WHO's regional offices and their respective operating regions. .mw-parser-output .legend{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .legend-color{display:inline-block;min-width:1.25em;height:1.25em;line-height:1.25;margin:1px 0;text-align:center;border:1px solid black;background-color:transparent;color:black}.mw-parser-output .legend-text{}&#160;&#160;Africa; HQ: Brazzaville, Republic of Congo &#160;&#160;Western Pacific; HQ: Manila, Philippines &#160;&#160;Eastern Mediterranean; HQ: Cairo, Egypt &#160;&#160;South East Asia; HQ: New Delhi, India &#160;&#160;Europe; HQ: Copenhagen, Denmark &#160;&#160;Americas; HQ: Washington, DC, USA
+The WHO director-general declares the coronavirus outbreak a "Public Health Emergency of International Concern" (PHEIC), reversing two previous decisions after emergency committee meetings in the last week.&#91;186&#93;&#91;187&#93;&#91;188&#93; WHO also issued a warning that "all countries should be prepared for containment, including active surveillance, early detection, isolation and case management, contact tracing and prevention of onward spread" of the virus.&#91;189&#93;
+Vietnam shuts down air traffic with China.&#91;190&#93; The Ministry of Public Security temporarily ceased issuing visa to Chinese citizens within the epidemic areas.&#91;191&#93; Additionally, crossing at gateways, airports, seaports are put under higher supervision, with strict monitoring and medical check-ups (applied to both humans and items; prohibited against wildlife animals and derivatives).&#91;191&#93; Later that day, after confirmation of the virus for the first three Vietnamese patients, the Prime Minister ordered for further visa restrictions apart from diplomatic work, suspension of activities at border gates (with China) which are still active, evacuation for citizens when necessary, and an emergency alert being considered.&#91;192&#93;
+The Liaison Office between the two Koreas in the border town of Kaesong was shut down for an unspecified time regarding infection concern. The decision was made after negotiations between the representatives of both countries early in the morning on 30 January, informed by the Unification Ministry of South Korea.&#91;193&#93;
+North Korea's news agency KCNA declared a "state emergency" and reported the establishment of anti-epidemic headquarters around the country.&#91;194&#93;
+Singapore announced that every household was to receive four masks starting from 1 February.&#91;195&#93;&#91;196&#93;
+Russia announces restrictions on railway travel with China, such that only a direct train between Moscow and Beijing remains.&#91;197&#93;
+Italian Prime Minister Giuseppe Conte stated in a press conference that Italy had closed all air traffic to and from China.&#91;198&#93;  It is believed that Conte has also called a cabinet meeting for Friday to discuss further actions.&#91;199&#93; Six thousand people are briefly quarantined on board an Italian cruise ship as tests are carried out on two Chinese passengers suspected of having coronavirus, a spokesman for the Costa Crociere cruise company said.&#91;200&#93; The same day, all passengers are released as it is found that the ill individual has the flu, not coronavirus.&#91;201&#93;
+The US State Department issued an updated travel advisory as "Level 4: Do Not Travel to China." Its website stated that "Those currently in China should consider departing" and warning that "Travelers should be prepared for travel restrictions to be put into effect with little or no advance notice".&#91;202&#93; Additionally, it authorised American diplomatic staff and their families to evacuate China.&#91;203&#93; The State of Washington in the US declared a Level 1 Emergency and activated its Emergency Response Center for dealing with the now global coronavirus outbreak.&#91;204&#93;
+British foreign secretary Dominic Raab disclosed that the emergency flight containing about 120 Britons from Wuhan that was delayed by 24 hours was due to land at RAF Brize Norton on Friday morning, where the passengers will be taken to Wirral for a fortnight's quarantine.&#91;205&#93;
+Trinidad and Tobago's health minister, Terrance Deyalsingh, announced that Trinidad and Tobago had decided to implement restrictions on persons travelling from China. Persons who are living or who have visited China will be barred from entering Trinidad and Tobago unless they had already been out of China 14 days prior to attempting to travel to Trinidad and Tobago.&#91;206&#93;
+Air France and KLM cancel all flights to mainland China until 9 February.&#91;207&#93;&#91;208&#93;
+Two K-pop concerts in Singapore by Taeyeon and NCT Group respectively were postponed after the virus situation worsened.&#91;209&#93;
+The National Library of Medicine began collection of website and social media reporting of the virus outbreak as part of its Global Health Events archiving.&#91;210&#93;
+
+31 January[edit]
+Russian authorities announced the border closure with China would be extended to at least 1 March.&#91;211&#93;
+Authorities in Guangxi (China) and Lạng Sơn (Vietnam) announced the temporary suspension of nine auxiliary border gates (namely in pair: Tân Thanh – 浦寨, Chi Ma – 爱店, Cốc Nam – 弄怀, Bình Nghi – 平宜, Pò Nhùng – 油隘, Bản Chắt – 板烂, Co Sâu – 北山, Na Hình, and Nà Nưa) and border markets starting 31 January until 8 February, and prohibited all travel over cross-border trails.&#91;212&#93;&#91;213&#93;
+Singapore closed borders to all visitors arriving from mainland China (including passengers transiting through Singapore) except Singaporeans, Singapore residents and long-term visa holders. The measure took effect on 1 February at 11.59&#160;pm.&#91;214&#93;&#91;215&#93;&#91;216&#93;
+Macau announced it would postpone schools indefinitely and that schools should contact students to arrange for assignments to be done online.&#91;217&#93; Hong Kong extended the public holiday to 2 March, and also requested all visitors who have been in Hubei in the past 14 days to be quarantined. All government employees became remote workers.&#91;218&#93;
+Italy declared a state of emergency, the first EU country to do so,&#91;219&#93; and allocates an initial 5 million Euros to tackle the virus.&#91;220&#93;
+The United States government declares a Public Health Emergency due to the coronavirus, and is closing its borders to all foreign nationals "who pose a threat of transmitting the virus from entering the country and would quarantine U.S. citizens returning from Hubei province in China, the epicenter of the outbreak, for up to 14 days," starting Sunday, 2 February at 5&#160;pm. The 195 Americans on the Air Force base in California whom were recently evacuated from Wuhan recently will also be quarantined.&#91;221&#93;&#91;222&#93;&#91;223&#93;
+Jamaica's health minister, Christopher Tufton, announced a government decision to ban travel between China and Jamaica. All persons entering Jamaica from China will be subject to immediate quarantine for at least 14 days, and anyone who was allowed to land and shows symptoms of the virus will be put in immediate isolation.&#91;224&#93; In keeping with the new policy, 19 Chinese nationals who arrived at the Norman Manley International Airport on the evening of 31 January were denied entry, quarantined and put on a flight back to China on 1 February.&#91;225&#93;
+The Ecuadorian Ministry of Health, Catalina Andramuño, announced that the country now possesses reagents for testing new cases locally, becoming the first in South America.&#91;226&#93;
+LOT Polish Airlines cancels all flights to Beijing until 9 February.&#91;227&#93; Delta Air Lines suspends all China flights, and American Airlines pilots sue for same action.&#91;228&#93;&#91;229&#93; Later, American Airlines ceased flights to China as well.&#91;230&#93; Later still, United Airlines halts all flights to China, excepting San Francisco to Hong Kong.&#91;231&#93;
+Basra International Airport in Iraq has declared that passengers of any nationality travelling from China will be denied entry.&#91;232&#93;
+Turkish Airlines halted all flights to China until 9 February.&#91;233&#93;
+K-pop band Got7's concert in Singapore, scheduled for 22 February, was postponed due to the virus.&#91;234&#93;
+
+
+							
+
+	
+	
+
+8 languages
+	
+	
+
+		
+			
+			
+				
+				العربيةEspañolHrvatskiBahasa IndonesiaעבריתPortuguêsTiếng Việt中文
+			
+			Edit links
+		
+
+	
+
+
+				
+					
+						
+							
+								
+
+	
+		
+		
+			
+			ArticleTalk
+		
+		
+	
+
+
+								
+
+	
+	English
+	
+	
+
+
+					
+
+	
+		
+		
+			
+			
+		
+		
+	
+
+
+				
+	
+
+
+							
+						
+						
+							
+								
+
+	
+		
+		
+			
+			ReadEditView history
+		
+		
+	
+
+
+							
+				
+							
+								
+
+	
+	Tools
+	
+	
+
+
+									
+						
+
+	
+	Tools
+	move to sidebar
+	hide
+
+
+	
+
+	
+		Actions
+	
+	
+		
+		
+			
+			ReadEditView history
+		
+		
+	
+
+
+
+	
+		General
+	
+	
+		
+		
+			
+			What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationCite this pageGet shortened URLDownload QR codeWikidata item
+		
+		
+	
+
+
+
+	
+		Print/export
+	
+	
+		
+		
+			
+			Download as PDFPrintable version
+		
+		
+	
+
+
+
+
+									
+				
+	
+
+
+							
+						
+					
+				
+				
+					
+						
+							
+				
+							
+		
+						
+						
+					
+				
+				
+					
+							
+		
+
+						From Wikipedia, the free encyclopedia
+					
+					
+					
+					
+					Sequence of major events in a virus pandemic
+
+
+
+.mw-parser-output .hlist dl,.mw-parser-output .hlist ol,.mw-parser-output .hlist ul{margin:0;padding:0}.mw-parser-output .hlist dd,.mw-parser-output .hlist dt,.mw-parser-output .hlist li{margin:0;display:inline}.mw-parser-output .hlist.inline,.mw-parser-output .hlist.inline dl,.mw-parser-output .hlist.inline ol,.mw-parser-output .hlist.inline ul,.mw-parser-output .hlist dl dl,.mw-parser-output .hlist dl ol,.mw-parser-output .hlist dl ul,.mw-parser-output .hlist ol dl,.mw-parser-output .hlist ol ol,.mw-parser-output .hlist ol ul,.mw-parser-output .hlist ul dl,.mw-parser-output .hlist ul ol,.mw-parser-output .hlist ul ul{display:inline}.mw-parser-output .hlist .mw-empty-li{display:none}.mw-parser-output .hlist dt::after{content:": "}.mw-parser-output .hlist dd::after,.mw-parser-output .hlist li::after{content:" · ";font-weight:bold}.mw-parser-output .hlist dd:last-child::after,.mw-parser-output .hlist dt:last-child::after,.mw-parser-output .hlist li:last-child::after{content:none}.mw-parser-output .hlist dd dd:first-child::before,.mw-parser-output .hlist dd dt:first-child::before,.mw-parser-output .hlist dd li:first-child::before,.mw-parser-output .hlist dt dd:first-child::before,.mw-parser-output .hlist dt dt:first-child::before,.mw-parser-output .hlist dt li:first-child::before,.mw-parser-output .hlist li dd:first-child::before,.mw-parser-output .hlist li dt:first-child::before,.mw-parser-output .hlist li li:first-child::before{content:" (";font-weight:normal}.mw-parser-output .hlist dd dd:last-child::after,.mw-parser-output .hlist dd dt:last-child::after,.mw-parser-output .hlist dd li:last-child::after,.mw-parser-output .hlist dt dd:last-child::after,.mw-parser-output .hlist dt dt:last-child::after,.mw-parser-output .hlist dt li:last-child::after,.mw-parser-output .hlist li dd:last-child::after,.mw-parser-output .hlist li dt:last-child::after,.mw-parser-output .hlist li li:last-child::after{content:")";font-weight:normal}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist olli{counter-increment:listitem}.mw-parser-output .hlist olli::before{content:" "counter(listitem)"\a0 "}.mw-parser-output .hlist dd olli:first-child::before,.mw-parser-output .hlist dt olli:first-child::before,.mw-parser-output .hlist li olli:first-child::before{content:" ("counter(listitem)"\a0 "}.mw-parser-output .sidebar{width:22em;float:right;clear:right;margin:0.5em 0 1em 1em;background:#f8f9fa;border:1px solid #aaa;padding:0.2em;text-align:center;line-height:1.4em;font-size:88%;border-collapse:collapse;display:table}body.skin-minerva .mw-parser-output .sidebar{display:table!important;float:right!important;margin:0.5em 0 1em 1em!important}.mw-parser-output .sidebar-subgroup{width:100%;margin:0;border-spacing:0}.mw-parser-output .sidebar-left{float:left;clear:left;margin:0.5em 1em 1em 0}.mw-parser-output .sidebar-none{float:none;clear:both;margin:0.5em 1em 1em 0}.mw-parser-output .sidebar-outer-title{padding:0 0.4em 0.2em;font-size:125%;line-height:1.2em;font-weight:bold}.mw-parser-output .sidebar-top-image{padding:0.4em}.mw-parser-output .sidebar-top-caption,.mw-parser-output .sidebar-pretitle-with-top-image,.mw-parser-output .sidebar-caption{padding:0.2em 0.4em 0;line-height:1.2em}.mw-parser-output .sidebar-pretitle{padding:0.4em 0.4em 0;line-height:1.2em}.mw-parser-output .sidebar-title,.mw-parser-output .sidebar-title-with-pretitle{padding:0.2em 0.8em;font-size:145%;line-height:1.2em}.mw-parser-output .sidebar-title-with-pretitle{padding:0.1em 0.4em}.mw-parser-output .sidebar-image{padding:0.2em 0.4em 0.4em}.mw-parser-output .sidebar-heading{padding:0.1em 0.4em}.mw-parser-output .sidebar-content{padding:0 0.5em 0.4em}.mw-parser-output .sidebar-content-with-subgroup{padding:0.1em 0.4em 0.2em}.mw-parser-output .sidebar-above,.mw-parser-output .sidebar-below{padding:0.3em 0.8em;font-weight:bold}.mw-parser-output .sidebar-collapse .sidebar-above,.mw-parser-output .sidebar-collapse .sidebar-below{border-top:1px solid #aaa;border-bottom:1px solid #aaa}.mw-parser-output .sidebar-navbar{text-align:right;font-size:115%;padding:0 0.4em 0.4em}.mw-parser-output .sidebar-list-title{padding:0 0.4em;text-align:left;font-weight:bold;line-height:1.6em;font-size:105%}.mw-parser-output .sidebar-list-title-c{padding:0 0.4em;text-align:center;margin:0 3.3em}@media(max-width:720px){body.mediawiki .mw-parser-output .sidebar{width:100%!important;clear:both;float:none!important;margin-left:0!important;margin-right:0!important}}Part of a series on theCOVID-19 pandemicScientifically accurate atomic model of the external structure of SARS-CoV-2. Each "ball" is an atom.
+COVID-19 (disease)
+SARS-CoV-2 (virus)
+Cases
+Deaths
+Timeline
+2019
+2020
+January
+responses
+February
+responses
+March
+responses
+April
+responses
+May
+responses
+June
+responses
+July
+responses
+August
+responses
+September
+responses
+October
+responses
+November
+responses
+December
+responses
+2021
+January
+responses
+February
+responses
+March
+responses
+April
+responses
+May
+responses
+June
+responses
+July
+responses
+August
+responses
+September
+responses
+October
+responses
+November
+responses
+December
+responses
+2022
+January
+responses
+February
+responses
+March
+responses
+April
+responses
+May
+responses
+June
+responses
+July
+responses
+August
+responses
+September
+responses
+October
+responses
+November
+December
+2023
+2024
+
+Locations
+By country and territory
+Africa
+Antarctica
+Asia
+Europe
+North America
+Oceania
+South America
+By conveyance
+Cruise ships
+Naval ships
+
+International response
+Endemic phase
+Evacuations
+Face masks
+International aid
+Origin
+Lockdowns
+by country
+Misinformation
+by governments
+Fake treatments
+Social distancing
+Software
+Travel
+United Nations
+World Health Organization
+WTO IP waiver
+Undercounting of deaths
+COVID-19 apps
+Zero-COVID
+National responses
+Africa
+China
+European Union
+Germany
+Ghana
+India
+Ireland
+Netherlands
+New Zealand
+Nigeria
+Philippines
+Russia
+Sweden
+UK
+government
+US
+federal government
+Vietnam
+
+Medical response
+Disease testing
+Breathalyzer
+Development
+Drug development
+Drug repurposing
+Public health mitigation
+Vaccines
+History
+Research
+VITT
+Deployment
+Authorizations
+Operation Warp Speed
+Misinformation and hesitancy
+US
+Vaccine card
+Vaccine passports
+Current vaccines
+CoronaVac
+Covaxin
+Convidecia
+Janssen
+Medigen
+Moderna
+Novavax
+Oxford–AstraZeneca
+Pfizer–BioNTech
+Sinopharm BIBP
+Sputnik V
+
+Variants
+Variants of concern
+Alpha
+Beta
+Gamma
+Delta
+Omicron
+Other variants
+Epsilon
+Zeta
+Eta
+Theta
+Iota
+Kappa
+Lambda
+Mu
+Cluster 5
+Lineage B.1.617
+
+Economic impact and recession
+Arts and culture
+Aviation
+Cannabis
+Cinema
+films
+Disney
+Fashion
+Financial markets
+Food industry
+Food security
+Journalism
+Music
+Performing arts
+Retail
+Shipping
+Television
+US
+sportscasting
+programs
+Tourism
+Video games
+By country
+Canada
+India
+Ireland
+Malaysia
+New Zealand
+Russia
+UK
+US
+By sport
+Association football
+Baseball
+Basketball
+Combat sports
+Cricket
+Disc golf
+Gaelic games
+Gridiron football
+Ice hockey
+Motorsport
+Rugby league
+
+Impacts
+Animals
+Alzheimer's disease patients
+Black people
+Crime
+Death rates by country
+Disability
+Domestic violence
+Emergency evacuations
+Education
+Female
+Environment
+Hospitals
+Language
+LGBT community
+Long-term care
+Media coverage
+Mental health
+symptoms
+Migration
+Military
+Notable deaths
+Other health issues
+Politics
+diplomacy
+Popular culture
+Protests
+Pregnancy
+Prisons
+Religion
+Catholic Church
+Hajj
+Science and technology
+Social media
+Strikes
+Suicides
+Telehealth
+Xenophobia and racism
+Society
+Ireland
+Malaysia
+New Zealand
+Russia
+UK
+US
+
+&#160;COVID-19 portal.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar aspan,.mw-parser-output .navbar aabbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}vte
+This article documents the chronology and epidemiology of SARS-CoV-2 in 2019, the virus that causes coronavirus disease 2019 (COVID-19) and is responsible for the COVID-19 pandemic. The first human cases of COVID-19 known to have been identified were in Wuhan, Hubei, China, in December 2019. It marked the beginning of the 2019–2020 COVID-19 outbreak in mainland China.
+
+.mw-parser-output .toclimit-2 .toclevel-1 ul,.mw-parser-output .toclimit-3 .toclevel-2 ul,.mw-parser-output .toclimit-4 .toclevel-3 ul,.mw-parser-output .toclimit-5 .toclevel-4 ul,.mw-parser-output .toclimit-6 .toclevel-5 ul,.mw-parser-output .toclimit-7 .toclevel-6 ul{display:none}
+Unconfirmed reports of early cases[edit]
+A September 2020 review noted the hypothetical possibility that the COVID-19 infection had already spread to Europe in 2019 by presumptive evidences including pneumonia case numbers and radiology in France and Italy in November and December.&#91;1&#93; However, a subsequent retrospective surveillance report determined there was no evidence of SARS-CoV-2 circulation in Rome (Italy) during this period.&#91;2&#93;
+Some medical and environmental analyses in Italy, France, and the US found results which suggested the virus was circulating prior to December 2019 by several weeks. A WHO report states: "the study findings were not confirmed, methods used were not standardized, and serological assays may suffer from non-specific signals". It urges further investigation of these potential early events.&#91;3&#93;
+
+October and November[edit]
+.mw-parser-output .hatnote{font-style:italic}.mw-parser-output div.hatnote{padding-left:1.6em;margin-bottom:0.5em}.mw-parser-output .hatnote i{font-style:normal}.mw-parser-output .hatnote+link+.hatnote{margin-top:-0.5em}See also: Investigations into the origin of COVID-19 and COVID-19 pandemic in Hubei
+According to an ABC news report, the American National Center for Medical Intelligence shared intelligence in late November, based on analysis of wire and computer intercepts and satellite images, regarding a potential respiratory disease in Wuhan. This was denied by the Pentagon.&#91;4&#93; On 13 March 2020, the South China Morning Post reported that Chinese government records suggest that the first case of infection with COVID-19 could be traced back to a 55-year-old Hubei resident on 17 November.&#91;5&#93; 
+On 23 May 2021, The Wall Street Journal reported that newly disclosed U.S. intelligence obtained that three researchers working at the BSL-4 laboratory of the Wuhan Institute of Virology were hospitalized with COVID-like symptoms. The report added weight to calls for a broader probe into the theory that the COVID-19 virus could have escaped from a laboratory.&#91;6&#93;&#91;7&#93; However, a WHO report states "introduction through a laboratory incident was considered to be an extremely unlikely pathway".&#91;3&#93; Since then, the head of the WHO COVID-19 origins investigative team, Peter Ben Embarek, has stated that the Chinese authorities exerted pressure on the WHO report conclusions, and that he in fact considers an infection via a researcher's field samples to be a "likely" scenario.&#91;8&#93;
+
+1 December[edit]
+Symptoms of the index case, or patient zero, began on 1 December.&#91;9&#93; The man had not been to the Huanan Seafood Wholesale Market. His family was unaffected, and no epidemiological link was found between him and the other laboratory-confirmed cases as of 2 January.&#91;9&#93;
+
+8 December[edit]
+First hospitalizations[edit]
+This was the onset of the first 41 people who were tested and later confirmed positive for COVID-19, as reported by the Wuhan City Health Committee and the WHO in 2020.&#91;10&#93;
+
+10 December[edit]
+Symptoms of three more cases began on 10 December, which were later confirmed by laboratories. These patients are known because they became hospitalized on 16 December and thus sampled. Their results were confirmed two of these three had no direct exposure to the Huanan Seafood Wholesale Market, while the other did.&#91;9&#93;
+
+15 December[edit]
+The fifth and sixth cases that were later confirmed by laboratories first felt symptoms on 15 December. Both patients had direct exposure to the Huanan Market.&#91;9&#93;
+
+16 December[edit]
+As of February&#160;2020&#91;update&#93;, the first documented COVID-19 hospital admissions worldwide were dated to 16 December 2019 in Wuhan.&#91;9&#93;
+
+24 December[edit]
+An unresolved clinical case sparks off the first scientific involvement: a bronchoalveolar lavage fluid (BAL) sample was sent from Wuhan Central Hospital to Vision Medicals (广州微远基因科技) in Guangzhou, a private company specializing in metagenomic massive parallel sequencing analysis.&#91;11&#93; According to the GenBank record, the sample was obtained 23 December, whereas Ren et al.,Chin Med J, 2020 sets the date to 24 December 2019.&#91;12&#93;&#91;13&#93;
+
+27 December[edit]
+First novel disease report[edit]
+According to news reports in February 2020—Workers Daily, Global Times—at the Hubei Provincial Hospital of Integrated Chinese and Western Medicine and following the report from Doctor Zhang Jixian, the hospital immediately alerted the local CDC, Wuhan Jianghan Disease Prevention and Control Center,&#91;14&#93; however, the report of 22 January 2020 from the Chinese CDC seems to claim this contact falling on 29 December.&#91;15&#93;
+
+28 December[edit]
+First sequencing of genome[edit]
+On 28 December 2019, Dr. Lili Ren, a virologist at the Peking Union Medical College in Beijing submitted a complete sequence of SARS-CoV-2 structure to GenBank. The sequence was never made public as it failed to include the annotations required for publication, and attempts by the NIH to contact Dr. Ren went unanswered.&#91;16&#93;
+
+29 December[edit]
+On this day and the previous, three similar cases arrived at Hubei Provincial Hospital of Integrated Chinese and Western Medicine, all associated with the seafood market. The health authorities had been informed, and medical experts from Wuhan Jinyintan Hospital, "a hospital designated to treat infectious diseases"&#91;17&#93; came to transfer six of the seven patients. Zhang Jixian took the further initiative to let doctors and nurses in the respiratory department wear face masks, and put out an order for 30 hospital coats of fine canvas.&#91;18&#93; The administration at Hubei Provincial Hospital of Integrated Chinese and Western Medicine convened an interdepartmental panel of doctors, whose conclusions were the cases were unusual and required special attention, and also having learned of two similar cases in the city, decided to report their findings to the municipal and provincial health authorities, Wuhan Municipal Health Commission and Hubei Province Health Committee.&#91;14&#93;
+The Wuhan CDC staff found also additional patients with similar symptoms who were linked to the market.&#91;15&#93; The Wuhan 'Center for Disease Control and Prevention' (CDC) is part of Chinese Center for Disease Control and Prevention.
+
+30 December[edit]
+Wuhan Central Hospital received a report from Beijing Boao Medical Laboratory stating that their sample (obtained 27 December) contained SARS coronavirus.&#91;11&#93; At the time, the laboratory only obtained a short partial sequence, which was rapidly shared with Vision Medicals, so that Vision Medicals could confirm that the sequence was SARS-CoV-2, i.e., roughly identical to the one they obtained 3 days before, and relatively distant to the original SARS coronavirus.&#91;19&#93;
+Several doctors at Wuhan Central Hospital shared the test report on social media in discussions mainly aimed at colleagues.&#91;11&#93; As referred to by Caixin Online, from the social media account of Li Wenliang, it is stated that there are seven cases of SARS at Wuhan Central Hospital, all connected to the Huanan Seafood Wholesale Market.&#91;11&#93;
+For Vision Medicals, too, these are hectic days (27–30 December) with the Chinese CDC requesting all results from Vision Medicals and from the Chinese Academy of Medical Science: "this was an urgent, secret and serious investigation".&#91;19&#93;
+
+First official messages[edit]
+Wuhan Municipal Health Commission sent a hard-copy message to its affiliate institutions.&#91;20&#93; containing guidelines in confronting a possible outbreak of infectious pneumonia.&#91;20&#93; Two scanned copies also found their way, the same day, to the Weibo QQ service—a social media platform.&#91;21&#93;&#91;22&#93;&#91;23&#93;
+
+Supervising doctors shall hold fast on discipline and create specialised team-units.
+General staff must be alert to the situation, especially keeping an eye out for patients with symptoms of infectious pneumonia.
+Statistical material must be gathered ongoingly and send to Wuhan Municipal Health Commission and Hubei Province Health Committee.
+Statistical material for the previous week, relating to patients with symptoms of infectious pneumonia, is to be sent to Wuhan Municipal Health Commission before 4 o'clock, this day.
+Without permission from authorized personnel, no one is allowed to spread information about the medical treatment.&#91;21&#93;&#91;22&#93;
+First international alert[edit]
+FluTrackers, an international disease tracking website established in 2006, was the first report reaching an international context on the situation in Wuhan on 30 December at 23:35:00 as recorded in the Internet Archive and reported by The Washington Post, Forbes, and CIDRAP.&#91;24&#93;&#91;25&#93;&#91;26&#93;&#91;27&#93; The ProMED reporting program, under auspice of the International Society for Infectious Diseases (ISID), reported on the situation in Wuhan. The full date is actually 30 December 23:59:00.&#91;20&#93;
+WHO may also have noticed the information coming out from Wuhan.&#91;28&#93;
+
+31 December[edit]
+First public message[edit]
+The Wuhan Municipal Health Commission released a briefing on its website about early signs of a pneumonia outbreak in the city.&#91;29&#93; The message conveys the impression of alertness, by summarizing 30 December's orders to the city hospitals; emphasizing ongoing scientific and clinical investigations and to seek hospital care when having persistent fever while showing symptoms of pneumonia; as well advising the public to wear face masks and to avoid enclosed public places and crowded areas.
+
+Cases in total: 27
+Serious cases: 7
+Recovering: 2
+As of now: no fatalities, no healthcare-workers infected, no signs of human-to-human transmission, cause of pneumonia infection still under investigation
+The message on pneumonia of unknown etiology was picked up by Chinese news agencies, including the state television CCTV,&#91;30&#93; local news agencies (such as Hubei Daily&#91;31&#93;), and social media (such as the Weibo account of CCTV&#91;32&#93; People's Daily) said the exact cause remained unclear, and it would be premature to speculate.&#91;33&#93; Through the Weibo account "YangShiXinWen", CCTV also sent an alert about the unknown virus, adding that a team of experts from the National Health Commission would arrive in Wuhan.&#91;30&#93;&#91;32&#93;&#91;better&#160;source&#160;needed&#93;
+Some international agencies also picked up on the reports, including Reuters,&#91;34&#93; Deutsche Welle,&#91;35&#93; and the South China Morning Post.&#91;33&#93;
+Qu Shiqian, a vendor at the Huanan Seafood Wholesale Market, said government officials had disinfected the premises on 31 December and told stallholders to wear masks. Qu said he had learned of the pneumonia outbreak only from media reports. "Previously I thought they had flu", he said. "It should be not serious. We are fish traders. How can we get infected?"&#91;33&#93;
+
+Interregional and international responses[edit]
+In response to the announcement from Wuhan, Hong Kong's Center for Health Protection tightened their inbound screening processes. They announced that various "surveillance measures at all boundary control points" have begun—including thermal imaging for checks on body temperature.&#91;36&#93; The center appealed to the public to maintain hygiene, with detailed advice on washing hands and wearing a mask, and further precautions when traveling outside Hong Kong.&#91;36&#93; Hong Kong's Secretary for Food and Health Sophia Chan announced "[any suspected cases] including the presentation of fever and acute respiratory illness or pneumonia, and travel history to Wuhan within 14 days before onset of symptoms, we will put the patients in isolation."&#91;33&#93;
+Tao Lina, a public health expert and former official with the Shanghai Center for Disease Control and Prevention, said, "I think we are [now] quite capable of killing it in the beginning phase, given China's disease control system, emergency handling capacity and clinical medicine support." No human-to-human infection had been reported so far and more pathological tests and investigations were underway, an official said.&#91;33&#93;
+The World Health Organization office in China picked up the media statement from the website of the Wuhan Municipal Health Commission on cases of viral pneumonia.&#91;37&#93; The WHO China office then notified the WHO Western Pacific Regional Office about the notice from the Wuhan government.&#91;37&#93;
+The US CDC claimed to have "first learned of a 'cluster of 27 cases of pneumonia'" in Wuhan on this day.&#91;38&#93;
+The Taiwan Centers for Disease Control (CDC) implemented inspection measures for inbound flights from Wuhan.&#91;39&#93; Deputy director Luo Yi-jun raised the alarm with his colleagues after reading about the outbreak on the PTT Bulletin Board System.&#91;40&#93;&#91;41&#93; Taiwan would end up having fewer than 500 total COVID-19 cases until September 2020.
+
