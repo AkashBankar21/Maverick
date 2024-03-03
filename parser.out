@@ -1,0 +1,615 @@
+Created by PLY version 3.11 (http://www.dabeaz.com/ply)
+
+Grammar
+
+Rule 0     S' -> start
+Rule 1     start -> OPENTABLE handleheader handlebody CLOSETABLE
+Rule 2     handleheader -> OPENHEAD OPENROW handleheaderdata CLOSEROW CLOSEHEAD
+Rule 3     handleheaderdata -> OPENHEADER content CLOSEHEADER handleheaderdata
+Rule 4     handleheaderdata -> empty
+Rule 5     handlebody -> OPENBODY handlerow CLOSEBODY
+Rule 6     handlerow -> OPENROW handledata endskip CLOSEROW handlerow
+Rule 7     handlerow -> empty
+Rule 8     handledata -> OPENDATA content CLOSEDATA handledata
+Rule 9     handledata -> OPENDATA OPENHREF content CLOSEHREF CLOSEDATA handledata
+Rule 10    handledata -> OPENDATA OPENNOBR content CLOSENOBR CLOSEDATA handledata
+Rule 11    handledata -> empty
+Rule 12    endskip -> ENDSKIPS handledata endskip
+Rule 13    endskip -> empty
+Rule 14    content -> CONTENT content
+Rule 15    content -> CONTENT OPENBR content
+Rule 16    content -> CONTENT OPENBR OPENNOBR content CLOSENOBR content
+Rule 17    content -> empty
+Rule 18    empty -> <empty>
+
+Terminals, with rules where they appear
+
+CLOSEBODY            : 5
+CLOSEDATA            : 8 9 10
+CLOSEHEAD            : 2
+CLOSEHEADER          : 3
+CLOSEHREF            : 9
+CLOSENOBR            : 10 16
+CLOSEROW             : 2 6
+CLOSETABLE           : 1
+CONTENT              : 14 15 16
+ENDSKIPS             : 12
+OPENBODY             : 5
+OPENBR               : 15 16
+OPENDATA             : 8 9 10
+OPENHEAD             : 2
+OPENHEADER           : 3
+OPENHREF             : 9
+OPENNOBR             : 10 16
+OPENROW              : 2 6
+OPENTABLE            : 1
+error                : 
+
+Nonterminals, with rules where they appear
+
+content              : 3 8 9 10 14 15 16 16
+empty                : 4 7 11 13 17
+endskip              : 6 12
+handlebody           : 1
+handledata           : 6 8 9 10 12
+handleheader         : 1
+handleheaderdata     : 2 3
+handlerow            : 5 6
+start                : 0
+
+Parsing method: LALR
+
+state 0
+
+    (0) S' -> . start
+    (1) start -> . OPENTABLE handleheader handlebody CLOSETABLE
+
+    OPENTABLE       shift and go to state 2
+
+    start                          shift and go to state 1
+
+state 1
+
+    (0) S' -> start .
+
+
+
+state 2
+
+    (1) start -> OPENTABLE . handleheader handlebody CLOSETABLE
+    (2) handleheader -> . OPENHEAD OPENROW handleheaderdata CLOSEROW CLOSEHEAD
+
+    OPENHEAD        shift and go to state 4
+
+    handleheader                   shift and go to state 3
+
+state 3
+
+    (1) start -> OPENTABLE handleheader . handlebody CLOSETABLE
+    (5) handlebody -> . OPENBODY handlerow CLOSEBODY
+
+    OPENBODY        shift and go to state 6
+
+    handlebody                     shift and go to state 5
+
+state 4
+
+    (2) handleheader -> OPENHEAD . OPENROW handleheaderdata CLOSEROW CLOSEHEAD
+
+    OPENROW         shift and go to state 7
+
+
+state 5
+
+    (1) start -> OPENTABLE handleheader handlebody . CLOSETABLE
+
+    CLOSETABLE      shift and go to state 8
+
+
+state 6
+
+    (5) handlebody -> OPENBODY . handlerow CLOSEBODY
+    (6) handlerow -> . OPENROW handledata endskip CLOSEROW handlerow
+    (7) handlerow -> . empty
+    (18) empty -> .
+
+    OPENROW         shift and go to state 10
+    CLOSEBODY       reduce using rule 18 (empty -> .)
+
+    handlerow                      shift and go to state 9
+    empty                          shift and go to state 11
+
+state 7
+
+    (2) handleheader -> OPENHEAD OPENROW . handleheaderdata CLOSEROW CLOSEHEAD
+    (3) handleheaderdata -> . OPENHEADER content CLOSEHEADER handleheaderdata
+    (4) handleheaderdata -> . empty
+    (18) empty -> .
+
+    OPENHEADER      shift and go to state 13
+    CLOSEROW        reduce using rule 18 (empty -> .)
+
+    handleheaderdata               shift and go to state 12
+    empty                          shift and go to state 14
+
+state 8
+
+    (1) start -> OPENTABLE handleheader handlebody CLOSETABLE .
+
+    $end            reduce using rule 1 (start -> OPENTABLE handleheader handlebody CLOSETABLE .)
+
+
+state 9
+
+    (5) handlebody -> OPENBODY handlerow . CLOSEBODY
+
+    CLOSEBODY       shift and go to state 15
+
+
+state 10
+
+    (6) handlerow -> OPENROW . handledata endskip CLOSEROW handlerow
+    (8) handledata -> . OPENDATA content CLOSEDATA handledata
+    (9) handledata -> . OPENDATA OPENHREF content CLOSEHREF CLOSEDATA handledata
+    (10) handledata -> . OPENDATA OPENNOBR content CLOSENOBR CLOSEDATA handledata
+    (11) handledata -> . empty
+    (18) empty -> .
+
+    OPENDATA        shift and go to state 17
+    ENDSKIPS        reduce using rule 18 (empty -> .)
+    CLOSEROW        reduce using rule 18 (empty -> .)
+
+    handledata                     shift and go to state 16
+    empty                          shift and go to state 18
+
+state 11
+
+    (7) handlerow -> empty .
+
+    CLOSEBODY       reduce using rule 7 (handlerow -> empty .)
+
+
+state 12
+
+    (2) handleheader -> OPENHEAD OPENROW handleheaderdata . CLOSEROW CLOSEHEAD
+
+    CLOSEROW        shift and go to state 19
+
+
+state 13
+
+    (3) handleheaderdata -> OPENHEADER . content CLOSEHEADER handleheaderdata
+    (14) content -> . CONTENT content
+    (15) content -> . CONTENT OPENBR content
+    (16) content -> . CONTENT OPENBR OPENNOBR content CLOSENOBR content
+    (17) content -> . empty
+    (18) empty -> .
+
+    CONTENT         shift and go to state 21
+    CLOSEHEADER     reduce using rule 18 (empty -> .)
+
+    content                        shift and go to state 20
+    empty                          shift and go to state 22
+
+state 14
+
+    (4) handleheaderdata -> empty .
+
+    CLOSEROW        reduce using rule 4 (handleheaderdata -> empty .)
+
+
+state 15
+
+    (5) handlebody -> OPENBODY handlerow CLOSEBODY .
+
+    CLOSETABLE      reduce using rule 5 (handlebody -> OPENBODY handlerow CLOSEBODY .)
+
+
+state 16
+
+    (6) handlerow -> OPENROW handledata . endskip CLOSEROW handlerow
+    (12) endskip -> . ENDSKIPS handledata endskip
+    (13) endskip -> . empty
+    (18) empty -> .
+
+    ENDSKIPS        shift and go to state 24
+    CLOSEROW        reduce using rule 18 (empty -> .)
+
+    endskip                        shift and go to state 23
+    empty                          shift and go to state 25
+
+state 17
+
+    (8) handledata -> OPENDATA . content CLOSEDATA handledata
+    (9) handledata -> OPENDATA . OPENHREF content CLOSEHREF CLOSEDATA handledata
+    (10) handledata -> OPENDATA . OPENNOBR content CLOSENOBR CLOSEDATA handledata
+    (14) content -> . CONTENT content
+    (15) content -> . CONTENT OPENBR content
+    (16) content -> . CONTENT OPENBR OPENNOBR content CLOSENOBR content
+    (17) content -> . empty
+    (18) empty -> .
+
+    OPENHREF        shift and go to state 27
+    OPENNOBR        shift and go to state 28
+    CONTENT         shift and go to state 21
+    CLOSEDATA       reduce using rule 18 (empty -> .)
+
+    content                        shift and go to state 26
+    empty                          shift and go to state 22
+
+state 18
+
+    (11) handledata -> empty .
+
+    ENDSKIPS        reduce using rule 11 (handledata -> empty .)
+    CLOSEROW        reduce using rule 11 (handledata -> empty .)
+
+
+state 19
+
+    (2) handleheader -> OPENHEAD OPENROW handleheaderdata CLOSEROW . CLOSEHEAD
+
+    CLOSEHEAD       shift and go to state 29
+
+
+state 20
+
+    (3) handleheaderdata -> OPENHEADER content . CLOSEHEADER handleheaderdata
+
+    CLOSEHEADER     shift and go to state 30
+
+
+state 21
+
+    (14) content -> CONTENT . content
+    (15) content -> CONTENT . OPENBR content
+    (16) content -> CONTENT . OPENBR OPENNOBR content CLOSENOBR content
+    (14) content -> . CONTENT content
+    (15) content -> . CONTENT OPENBR content
+    (16) content -> . CONTENT OPENBR OPENNOBR content CLOSENOBR content
+    (17) content -> . empty
+    (18) empty -> .
+
+    OPENBR          shift and go to state 32
+    CONTENT         shift and go to state 21
+    CLOSEHEADER     reduce using rule 18 (empty -> .)
+    CLOSEDATA       reduce using rule 18 (empty -> .)
+    CLOSEHREF       reduce using rule 18 (empty -> .)
+    CLOSENOBR       reduce using rule 18 (empty -> .)
+
+    content                        shift and go to state 31
+    empty                          shift and go to state 22
+
+state 22
+
+    (17) content -> empty .
+
+    CLOSEHEADER     reduce using rule 17 (content -> empty .)
+    CLOSEDATA       reduce using rule 17 (content -> empty .)
+    CLOSEHREF       reduce using rule 17 (content -> empty .)
+    CLOSENOBR       reduce using rule 17 (content -> empty .)
+
+
+state 23
+
+    (6) handlerow -> OPENROW handledata endskip . CLOSEROW handlerow
+
+    CLOSEROW        shift and go to state 33
+
+
+state 24
+
+    (12) endskip -> ENDSKIPS . handledata endskip
+    (8) handledata -> . OPENDATA content CLOSEDATA handledata
+    (9) handledata -> . OPENDATA OPENHREF content CLOSEHREF CLOSEDATA handledata
+    (10) handledata -> . OPENDATA OPENNOBR content CLOSENOBR CLOSEDATA handledata
+    (11) handledata -> . empty
+    (18) empty -> .
+
+    OPENDATA        shift and go to state 17
+    ENDSKIPS        reduce using rule 18 (empty -> .)
+    CLOSEROW        reduce using rule 18 (empty -> .)
+
+    handledata                     shift and go to state 34
+    empty                          shift and go to state 18
+
+state 25
+
+    (13) endskip -> empty .
+
+    CLOSEROW        reduce using rule 13 (endskip -> empty .)
+
+
+state 26
+
+    (8) handledata -> OPENDATA content . CLOSEDATA handledata
+
+    CLOSEDATA       shift and go to state 35
+
+
+state 27
+
+    (9) handledata -> OPENDATA OPENHREF . content CLOSEHREF CLOSEDATA handledata
+    (14) content -> . CONTENT content
+    (15) content -> . CONTENT OPENBR content
+    (16) content -> . CONTENT OPENBR OPENNOBR content CLOSENOBR content
+    (17) content -> . empty
+    (18) empty -> .
+
+    CONTENT         shift and go to state 21
+    CLOSEHREF       reduce using rule 18 (empty -> .)
+
+    content                        shift and go to state 36
+    empty                          shift and go to state 22
+
+state 28
+
+    (10) handledata -> OPENDATA OPENNOBR . content CLOSENOBR CLOSEDATA handledata
+    (14) content -> . CONTENT content
+    (15) content -> . CONTENT OPENBR content
+    (16) content -> . CONTENT OPENBR OPENNOBR content CLOSENOBR content
+    (17) content -> . empty
+    (18) empty -> .
+
+    CONTENT         shift and go to state 21
+    CLOSENOBR       reduce using rule 18 (empty -> .)
+
+    content                        shift and go to state 37
+    empty                          shift and go to state 22
+
+state 29
+
+    (2) handleheader -> OPENHEAD OPENROW handleheaderdata CLOSEROW CLOSEHEAD .
+
+    OPENBODY        reduce using rule 2 (handleheader -> OPENHEAD OPENROW handleheaderdata CLOSEROW CLOSEHEAD .)
+
+
+state 30
+
+    (3) handleheaderdata -> OPENHEADER content CLOSEHEADER . handleheaderdata
+    (3) handleheaderdata -> . OPENHEADER content CLOSEHEADER handleheaderdata
+    (4) handleheaderdata -> . empty
+    (18) empty -> .
+
+    OPENHEADER      shift and go to state 13
+    CLOSEROW        reduce using rule 18 (empty -> .)
+
+    handleheaderdata               shift and go to state 38
+    empty                          shift and go to state 14
+
+state 31
+
+    (14) content -> CONTENT content .
+
+    CLOSEHEADER     reduce using rule 14 (content -> CONTENT content .)
+    CLOSEDATA       reduce using rule 14 (content -> CONTENT content .)
+    CLOSEHREF       reduce using rule 14 (content -> CONTENT content .)
+    CLOSENOBR       reduce using rule 14 (content -> CONTENT content .)
+
+
+state 32
+
+    (15) content -> CONTENT OPENBR . content
+    (16) content -> CONTENT OPENBR . OPENNOBR content CLOSENOBR content
+    (14) content -> . CONTENT content
+    (15) content -> . CONTENT OPENBR content
+    (16) content -> . CONTENT OPENBR OPENNOBR content CLOSENOBR content
+    (17) content -> . empty
+    (18) empty -> .
+
+    OPENNOBR        shift and go to state 40
+    CONTENT         shift and go to state 21
+    CLOSEHEADER     reduce using rule 18 (empty -> .)
+    CLOSEDATA       reduce using rule 18 (empty -> .)
+    CLOSEHREF       reduce using rule 18 (empty -> .)
+    CLOSENOBR       reduce using rule 18 (empty -> .)
+
+    content                        shift and go to state 39
+    empty                          shift and go to state 22
+
+state 33
+
+    (6) handlerow -> OPENROW handledata endskip CLOSEROW . handlerow
+    (6) handlerow -> . OPENROW handledata endskip CLOSEROW handlerow
+    (7) handlerow -> . empty
+    (18) empty -> .
+
+    OPENROW         shift and go to state 10
+    CLOSEBODY       reduce using rule 18 (empty -> .)
+
+    handlerow                      shift and go to state 41
+    empty                          shift and go to state 11
+
+state 34
+
+    (12) endskip -> ENDSKIPS handledata . endskip
+    (12) endskip -> . ENDSKIPS handledata endskip
+    (13) endskip -> . empty
+    (18) empty -> .
+
+    ENDSKIPS        shift and go to state 24
+    CLOSEROW        reduce using rule 18 (empty -> .)
+
+    endskip                        shift and go to state 42
+    empty                          shift and go to state 25
+
+state 35
+
+    (8) handledata -> OPENDATA content CLOSEDATA . handledata
+    (8) handledata -> . OPENDATA content CLOSEDATA handledata
+    (9) handledata -> . OPENDATA OPENHREF content CLOSEHREF CLOSEDATA handledata
+    (10) handledata -> . OPENDATA OPENNOBR content CLOSENOBR CLOSEDATA handledata
+    (11) handledata -> . empty
+    (18) empty -> .
+
+    OPENDATA        shift and go to state 17
+    ENDSKIPS        reduce using rule 18 (empty -> .)
+    CLOSEROW        reduce using rule 18 (empty -> .)
+
+    handledata                     shift and go to state 43
+    empty                          shift and go to state 18
+
+state 36
+
+    (9) handledata -> OPENDATA OPENHREF content . CLOSEHREF CLOSEDATA handledata
+
+    CLOSEHREF       shift and go to state 44
+
+
+state 37
+
+    (10) handledata -> OPENDATA OPENNOBR content . CLOSENOBR CLOSEDATA handledata
+
+    CLOSENOBR       shift and go to state 45
+
+
+state 38
+
+    (3) handleheaderdata -> OPENHEADER content CLOSEHEADER handleheaderdata .
+
+    CLOSEROW        reduce using rule 3 (handleheaderdata -> OPENHEADER content CLOSEHEADER handleheaderdata .)
+
+
+state 39
+
+    (15) content -> CONTENT OPENBR content .
+
+    CLOSEHEADER     reduce using rule 15 (content -> CONTENT OPENBR content .)
+    CLOSEDATA       reduce using rule 15 (content -> CONTENT OPENBR content .)
+    CLOSEHREF       reduce using rule 15 (content -> CONTENT OPENBR content .)
+    CLOSENOBR       reduce using rule 15 (content -> CONTENT OPENBR content .)
+
+
+state 40
+
+    (16) content -> CONTENT OPENBR OPENNOBR . content CLOSENOBR content
+    (14) content -> . CONTENT content
+    (15) content -> . CONTENT OPENBR content
+    (16) content -> . CONTENT OPENBR OPENNOBR content CLOSENOBR content
+    (17) content -> . empty
+    (18) empty -> .
+
+    CONTENT         shift and go to state 21
+    CLOSENOBR       reduce using rule 18 (empty -> .)
+
+    content                        shift and go to state 46
+    empty                          shift and go to state 22
+
+state 41
+
+    (6) handlerow -> OPENROW handledata endskip CLOSEROW handlerow .
+
+    CLOSEBODY       reduce using rule 6 (handlerow -> OPENROW handledata endskip CLOSEROW handlerow .)
+
+
+state 42
+
+    (12) endskip -> ENDSKIPS handledata endskip .
+
+    CLOSEROW        reduce using rule 12 (endskip -> ENDSKIPS handledata endskip .)
+
+
+state 43
+
+    (8) handledata -> OPENDATA content CLOSEDATA handledata .
+
+    ENDSKIPS        reduce using rule 8 (handledata -> OPENDATA content CLOSEDATA handledata .)
+    CLOSEROW        reduce using rule 8 (handledata -> OPENDATA content CLOSEDATA handledata .)
+
+
+state 44
+
+    (9) handledata -> OPENDATA OPENHREF content CLOSEHREF . CLOSEDATA handledata
+
+    CLOSEDATA       shift and go to state 47
+
+
+state 45
+
+    (10) handledata -> OPENDATA OPENNOBR content CLOSENOBR . CLOSEDATA handledata
+
+    CLOSEDATA       shift and go to state 48
+
+
+state 46
+
+    (16) content -> CONTENT OPENBR OPENNOBR content . CLOSENOBR content
+
+    CLOSENOBR       shift and go to state 49
+
+
+state 47
+
+    (9) handledata -> OPENDATA OPENHREF content CLOSEHREF CLOSEDATA . handledata
+    (8) handledata -> . OPENDATA content CLOSEDATA handledata
+    (9) handledata -> . OPENDATA OPENHREF content CLOSEHREF CLOSEDATA handledata
+    (10) handledata -> . OPENDATA OPENNOBR content CLOSENOBR CLOSEDATA handledata
+    (11) handledata -> . empty
+    (18) empty -> .
+
+    OPENDATA        shift and go to state 17
+    ENDSKIPS        reduce using rule 18 (empty -> .)
+    CLOSEROW        reduce using rule 18 (empty -> .)
+
+    handledata                     shift and go to state 50
+    empty                          shift and go to state 18
+
+state 48
+
+    (10) handledata -> OPENDATA OPENNOBR content CLOSENOBR CLOSEDATA . handledata
+    (8) handledata -> . OPENDATA content CLOSEDATA handledata
+    (9) handledata -> . OPENDATA OPENHREF content CLOSEHREF CLOSEDATA handledata
+    (10) handledata -> . OPENDATA OPENNOBR content CLOSENOBR CLOSEDATA handledata
+    (11) handledata -> . empty
+    (18) empty -> .
+
+    OPENDATA        shift and go to state 17
+    ENDSKIPS        reduce using rule 18 (empty -> .)
+    CLOSEROW        reduce using rule 18 (empty -> .)
+
+    handledata                     shift and go to state 51
+    empty                          shift and go to state 18
+
+state 49
+
+    (16) content -> CONTENT OPENBR OPENNOBR content CLOSENOBR . content
+    (14) content -> . CONTENT content
+    (15) content -> . CONTENT OPENBR content
+    (16) content -> . CONTENT OPENBR OPENNOBR content CLOSENOBR content
+    (17) content -> . empty
+    (18) empty -> .
+
+    CONTENT         shift and go to state 21
+    CLOSEHEADER     reduce using rule 18 (empty -> .)
+    CLOSEDATA       reduce using rule 18 (empty -> .)
+    CLOSEHREF       reduce using rule 18 (empty -> .)
+    CLOSENOBR       reduce using rule 18 (empty -> .)
+
+    content                        shift and go to state 52
+    empty                          shift and go to state 22
+
+state 50
+
+    (9) handledata -> OPENDATA OPENHREF content CLOSEHREF CLOSEDATA handledata .
+
+    ENDSKIPS        reduce using rule 9 (handledata -> OPENDATA OPENHREF content CLOSEHREF CLOSEDATA handledata .)
+    CLOSEROW        reduce using rule 9 (handledata -> OPENDATA OPENHREF content CLOSEHREF CLOSEDATA handledata .)
+
+
+state 51
+
+    (10) handledata -> OPENDATA OPENNOBR content CLOSENOBR CLOSEDATA handledata .
+
+    ENDSKIPS        reduce using rule 10 (handledata -> OPENDATA OPENNOBR content CLOSENOBR CLOSEDATA handledata .)
+    CLOSEROW        reduce using rule 10 (handledata -> OPENDATA OPENNOBR content CLOSENOBR CLOSEDATA handledata .)
+
+
+state 52
+
+    (16) content -> CONTENT OPENBR OPENNOBR content CLOSENOBR content .
+
+    CLOSEHEADER     reduce using rule 16 (content -> CONTENT OPENBR OPENNOBR content CLOSENOBR content .)
+    CLOSEDATA       reduce using rule 16 (content -> CONTENT OPENBR OPENNOBR content CLOSENOBR content .)
+    CLOSEHREF       reduce using rule 16 (content -> CONTENT OPENBR OPENNOBR content CLOSENOBR content .)
+    CLOSENOBR       reduce using rule 16 (content -> CONTENT OPENBR OPENNOBR content CLOSENOBR content .)
+
