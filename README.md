@@ -4,4 +4,4 @@
 
 
 How to Run -
-run 'python website_download.py' on command line/terminal
+run 'make' on command line/terminal
