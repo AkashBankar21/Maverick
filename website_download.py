@@ -21,3 +21,5 @@ for line in file1:
     if len(line) != 0 and line[-1] != '-' and line[-1] != ':':
         line = line.replace(' ', '-')
         download(line)
+
+print("Websites are downloaded in countryhtml folder")
